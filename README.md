@@ -8,8 +8,6 @@
 
 Today I practiced the **Column** widget in Flutter. The `Column` widget arranges multiple child widgets **vertically** (from top to bottom). It is one of the most commonly used layout widgets for building user interfaces.
 
----
-
 ## 🎯 What I Learned
 
 - Creating a `Column` widget.
