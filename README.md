@@ -17,3 +17,30 @@ Today I practiced the **Column** widget in Flutter. The `Column` widget arranges
 - Building simple UI layouts using `Container` widgets.
 
 ---
+
+# 📌 Day 02 - Row Widget in Flutter
+
+## 📖 Overview
+Today I practiced the **Row** widget in Flutter. The Row widget arranges multiple child widgets horizontally (from left to right). It is widely used to create layouts where widgets need to be displayed side by side.
+
+## 🎯 What I Learned
+- Creating a **Row** widget.
+- Adding multiple child widgets using the `children` property.
+- Arranging widgets horizontally.
+- Understanding the difference between `mainAxisAlignment` and `crossAxisAlignment`.
+- Building simple horizontal UI layouts using `Container` widgets.
+
+## 🛠️ Row Widget Properties
+- **children** – Holds the list of widgets to display inside the Row.
+- **mainAxisAlignment** – Controls the horizontal alignment of child widgets (e.g., `start`, `center`, `end`, `spaceBetween`, `spaceAround`, `spaceEvenly`).
+- **crossAxisAlignment** – Controls the vertical alignment of child widgets (e.g., `start`, `center`, `end`, `stretch`).
+- **mainAxisSize** – Determines how much horizontal space the Row occupies (`max` or `min`).
+- **textDirection** – Specifies the direction in which children are laid out (`ltr` or `rtl`).
+- **verticalDirection** – Defines the vertical order of children (`down` or `up`).
+
+## 🚀 Learning Outcome
+- Learned how to arrange widgets horizontally using the **Row** widget.
+- Explored different alignment properties to control widget positioning.
+- Improved understanding of Flutter layout widgets for responsive UI design.
+
+---
