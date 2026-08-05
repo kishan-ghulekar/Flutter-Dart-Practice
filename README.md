@@ -44,3 +44,38 @@ Today I practiced the **Row** widget in Flutter. The Row widget arranges multipl
 - Improved understanding of Flutter layout widgets for responsive UI design.
 
 ---
+
+## 📚 Upcoming Widgets
+
+- 📦 Container Widget
+- 📝 Text Widget
+- 🎯 Center Widget
+- 📏 Padding Widget
+- 📐 SizedBox Widget
+- ↔️ Expanded Widget
+- 🔄 Flexible Widget
+- 🧱 Stack Widget
+- 🔀 Wrap Widget
+- 📋 ListView Widget
+- 🗂️ GridView Widget
+- ⌨️ TextField Widget
+- 🔘 ElevatedButton Widget
+- 🎛️ IconButton Widget
+- ➕ FloatingActionButton Widget
+- ☑️ Checkbox Widget
+- 🔘 Radio Widget
+- 🔄 Switch Widget
+- 🏠 Scaffold Widget
+- 📌 AppBar Widget
+- 📂 Drawer Widget
+- 🧭 BottomNavigationBar Widget
+- 🗂️ TabBar Widget
+- 🃏 Card Widget
+- 📄 ListTile Widget
+- 👤 CircleAvatar Widget
+- 🖼️ Image Widget
+- 👆 GestureDetector Widget
+- 🎬 AnimatedContainer Widget
+- 📜 SingleChildScrollView Widget
+
+---
