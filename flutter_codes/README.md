@@ -2,6 +2,7 @@
 🚀 Daily Flutter &amp; Dart practice repository featuring hands-on coding exercises, widget implementations, mini projects, and interview preparation to strengthen mobile app development skills.
 
 ---
+
 # 📌 Day 01 - Column Widget in Flutter
 
 ## 📖 Overview
@@ -45,9 +46,42 @@ Today I practiced the **Row** widget in Flutter. The Row widget arranges multipl
 
 ---
 
+# 📌 Day 03 - Container Widget in Flutter
+
+## 📖 Overview
+Today I practiced the Container widget in Flutter. The Container widget is one of the most versatile layout widgets used to control the size, alignment, padding, margin, decoration, and positioning of its child widget.
+
+## 🎯 What I Learned
+- Creating a Container widget.
+- Setting width and height.
+- Applying background colors.
+- Using padding and margin.
+- Aligning child widgets.
+- Adding borders and rounded corners using BoxDecoration.
+- Applying box shadows.
+
+## 🛠️ Container Widget Properties
+- width
+- height
+- color
+- padding
+- margin
+- alignment
+- decoration
+- border
+- borderRadius
+- boxShadow
+
+## 🚀 Learning Outcome
+- Learned how to build reusable UI blocks using Container.
+- Understood spacing and decoration.
+- Improved Flutter layout fundamentals.
+
+---
+
 ## 📚 Upcoming Widgets
 
-- 📦 Container Widget
+- ✅ Container Widget
 - 📝 Text Widget
 - 🎯 Center Widget
 - 📏 Padding Widget
