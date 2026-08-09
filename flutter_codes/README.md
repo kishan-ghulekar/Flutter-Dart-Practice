@@ -79,10 +79,45 @@ Today I practiced the Container widget in Flutter. The Container widget is one o
 
 ---
 
+# 📌 Day 04 - Text Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the Text widget in Flutter. The Text widget is used to display text on the screen and provides various properties to customize the appearance, alignment, size, and style of the text.
+
+## 🎯 What I Learned
+
+- Creating a Text widget.
+- Setting font size.
+- Applying font weight.
+- Changing text color.
+- Aligning text.
+- Using different text styles.
+- Controlling text overflow.
+- Setting maximum lines.
+
+## 🛠️ Text Widget Properties
+
+- data
+- style
+- textAlign
+- maxLines
+- overflow
+- softWrap
+- textDirection
+
+## 🚀 Learning Outcome
+
+- Learned how to display and style text in Flutter.
+- Understood different Text widget properties.
+- Improved understanding of Flutter UI design and styling.
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
-- 📝 Text Widget
+- ✅ Text Widget
 - 🎯 Center Widget
 - 📏 Padding Widget
 - 📐 SizedBox Widget
