@@ -114,11 +114,42 @@ Today I practiced the Text widget in Flutter. The Text widget is used to display
 
 ---
 
+# 📌 Day 05 - Center Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Center widget** in Flutter. The Center widget is used to position its child widget at the center of the available space. It is commonly used to align text, buttons, containers, images, and other widgets both horizontally and vertically.
+
+## 🎯 What I Learned
+
+- Creating a Center widget.
+- Placing a child widget at the center of the screen.
+- Understanding how the Center widget handles alignment.
+- Using the Center widget with Text.
+- Using the Center widget with Container.
+- Using the Center widget with other widgets.
+- Understanding the `child` property.
+
+## 🛠️ Center Widget Properties
+
+- `child`
+- `widthFactor`
+- `heightFactor`
+
+## 🚀 Learning Outcome
+
+- Learned how to position widgets at the center of the screen.
+- Understood the working of the Center widget.
+- Learned how to use the `child` property.
+- Improved understanding of Flutter widget alignment and UI layout.
+
+---
+
 ## 📚 Upcoming Widgets
 
-- ✅ Container Widget
-- ✅ Text Widget
-- 🎯 Center Widget
+✅ 📦Container Widget
+✅ 📝 Text Widget
+✅ 🎯 Center Widget
 - 📏 Padding Widget
 - 📐 SizedBox Widget
 - ↔️ Expanded Widget
