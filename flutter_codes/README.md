@@ -147,9 +147,9 @@ Today I practiced the **Center widget** in Flutter. The Center widget is used to
 
 ## 📚 Upcoming Widgets
 
-✅ 📦Container Widget
-✅ 📝 Text Widget
-✅ 🎯 Center Widget
+- ✅ Container Widget
+- ✅ Text Widget
+- ✅  Center Widget
 - 📏 Padding Widget
 - 📐 SizedBox Widget
 - ↔️ Expanded Widget
