@@ -145,12 +145,49 @@ Today I practiced the **Center widget** in Flutter. The Center widget is used to
 
 ---
 
+# 📌 Day 06 - Padding Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Padding widget** in Flutter. The Padding widget is used to add empty space around its child widget. It helps control the spacing between widgets and improves the overall layout and appearance of the user interface.
+
+## 🎯 What I Learned
+
+- Creating a Padding widget.
+- Adding space around a child widget.
+- Using padding on all sides.
+- Setting different padding values for each side.
+- Using `EdgeInsets` to define padding.
+- Applying padding to Text, Container, and other widgets.
+- Understanding the `padding` and `child` properties.
+
+## 🛠️ Padding Widget Properties
+
+- `padding`
+- `child`
+
+### 📐 Common EdgeInsets Methods
+
+- `EdgeInsets.all()`
+- `EdgeInsets.only()`
+- `EdgeInsets.symmetric()`
+- `EdgeInsets.fromLTRB()`
+
+## 🚀 Learning Outcome
+
+- Learned how to add spacing around widgets.
+- Understood how the Padding widget works with `EdgeInsets`.
+- Learned different ways to define padding.
+- Improved understanding of Flutter UI layout and spacing.
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
 - ✅ Text Widget
-- ✅  Center Widget
-- 📏 Padding Widget
+- ✅ Center Widget
+- ✅ Padding Widget
 - 📐 SizedBox Widget
 - ↔️ Expanded Widget
 - 🔄 Flexible Widget
