@@ -182,13 +182,54 @@ Today I practiced the **Padding widget** in Flutter. The Padding widget is used 
 
 ---
 
+# 📌 Day 07 - SizedBox Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **SizedBox widget** in Flutter. The SizedBox widget is used to create a box with a specific width and height. It is commonly used to control the size of a child widget and to add fixed spacing between widgets.
+
+## 🎯 What I Learned
+
+- Creating a SizedBox widget.
+- Setting a fixed width and height.
+- Adding vertical spacing between widgets.
+- Adding horizontal spacing between widgets.
+- Controlling the size of a child widget.
+- Using `SizedBox.expand()`.
+- Using `SizedBox.shrink()`.
+- Applying SizedBox with Text, Container, Button, and other widgets.
+- Understanding the `width`, `height`, and `child` properties.
+
+## 🛠️ SizedBox Widget Properties
+
+- `width`
+- `height`
+- `child`
+
+### 📐 Common SizedBox Constructors
+
+- `SizedBox()`
+- `SizedBox.expand()`
+- `SizedBox.shrink()`
+- `SizedBox.square()`
+
+## 🚀 Learning Outcome
+
+- Learned how to control the width and height of widgets.
+- Understood how to create fixed spacing using SizedBox.
+- Learned how to use SizedBox for horizontal and vertical spacing.
+- Understood different SizedBox constructors.
+- Improved understanding of Flutter UI layout and widget sizing.
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
 - ✅ Text Widget
 - ✅ Center Widget
 - ✅ Padding Widget
-- 📐 SizedBox Widget
+- ✅ SizedBox Widget
 - ↔️ Expanded Widget
 - 🔄 Flexible Widget
 - 🧱 Stack Widget
