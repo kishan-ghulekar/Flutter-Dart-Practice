@@ -223,7 +223,7 @@ Today I practiced the **SizedBox widget** in Flutter. The SizedBox widget is use
 
 ---
 
-## 📌 Day 08 - Expanded Widget in Flutter
+# 📌 Day 08 - Expanded Widget in Flutter
 
 ## 📖 Overview
 
@@ -261,6 +261,42 @@ Today I practiced the **Expanded widget** in Flutter. The Expanded widget is use
 
 ---
 
+# 📌 Day 09 - Flexible Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the Flexible widget in Flutter. The Flexible widget is used to allow a child widget to use the available space flexibly inside a Row, Column, or Flex widget. It is commonly used to create flexible and responsive layouts without forcing the child to fill all the available space.
+
+## 🎯 What I Learned
+- Creating a Flexible widget.
+- Using Flexible inside a Row.
+- Using Flexible inside a Column.
+- Allowing a widget to use available space flexibly.
+- Using the flex property to control the amount of space.
+- Dividing available space between multiple widgets.
+- Creating responsive layouts using Flexible.
+- Understanding how Flexible works with Row, Column, and Flex.
+
+## 🛠️ Flexible Widget Properties
+- `child`
+- `flex`
+- `fit`
+
+### 📐 Common Flexible Usage
+- `Flexible()`
+- `Flexible(flex: 2)`
+- `Flexible(flex: 3)`
+- `Flexible(fit: FlexFit.loose)`
+
+## 🚀 Learning Outcome
+- Learned how to use the Flexible widget in Flutter.
+- Understood how to allow widgets to occupy available space flexibly.
+- Learned how to divide space between multiple widgets using flex.
+- Understood the difference between Flexible and Expanded.
+- Improved understanding of responsive Flutter UI layouts.
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -269,7 +305,7 @@ Today I practiced the **Expanded widget** in Flutter. The Expanded widget is use
 - ✅ Padding Widget
 - ✅ SizedBox Widget
 - ✅ Expanded Widget
-- 🔄 Flexible Widget
+- ✅ Flexible Widget
 - 🧱 Stack Widget
 - 🔀 Wrap Widget
 - 📋 ListView Widget
