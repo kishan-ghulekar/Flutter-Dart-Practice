@@ -297,6 +297,54 @@ Today I practiced the Flexible widget in Flutter. The Flexible widget is used to
 
 ---
 
+# 📌 Day 10 - Stack Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Stack widget** in Flutter. The Stack widget is used to **place multiple widgets on top of each other**. It is commonly used to create overlapping layouts, badges, profile images, icons, and other layered UI designs.
+
+## 🎯 What I Learned
+
+- Creating a **Stack widget**.
+- Adding multiple widgets inside a Stack.
+- Placing widgets **on top of each other**.
+- Using the **`Positioned`** widget inside Stack.
+- Positioning widgets using `top`, `bottom`, `left`, and `right`.
+- Using the **`alignment`** property.
+- Creating overlapping UI elements.
+- Understanding how Stack works with `Container`, `Text`, `Image`, and other widgets.
+
+## 🛠️ Stack Widget Properties
+
+- `children`
+- `alignment`
+- `fit`
+- `clipBehavior`
+- `textDirection`
+
+### 📐 Common Stack Usage
+
+- `Stack()`
+- `Stack(children: [])`
+- `Stack(alignment: Alignment.center)`
+- `Positioned(top: 10, left: 10, child: ...)`
+- `Positioned(bottom: 10, right: 10, child: ...)`
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **Stack widget** in Flutter.
+- Understood how to **overlap multiple widgets**.
+- Learned how to position widgets using **`Positioned`**.
+- Understood the use of `top`, `bottom`, `left`, and `right`.
+- Learned how to align children using the **`alignment`** property.
+- Improved understanding of **layered and responsive Flutter UI layouts**.
+
+## ScreenShot
+<img width="300" height="500" alt="stack_widget" src="https://github.com/user-attachments/assets/f173db8d-ae31-4b4e-83ba-62786e0d74d0" />
+
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -306,7 +354,7 @@ Today I practiced the Flexible widget in Flutter. The Flexible widget is used to
 - ✅ SizedBox Widget
 - ✅ Expanded Widget
 - ✅ Flexible Widget
-- 🧱 Stack Widget
+- ✅ Stack Widget
 - 🔀 Wrap Widget
 - 📋 ListView Widget
 - 🗂️ GridView Widget
