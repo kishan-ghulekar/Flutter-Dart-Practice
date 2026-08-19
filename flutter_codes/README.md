@@ -345,6 +345,52 @@ Today I practiced the **Stack widget** in Flutter. The Stack widget is used to *
 
 ---
 
+# 📌 Day 09 - Wrap Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Wrap widget** in Flutter. The Wrap widget is used to arrange multiple widgets in rows or columns. When there is not enough space in one row, the Wrap widget automatically moves the remaining widgets to the **next line**. It is commonly used for creating responsive layouts such as buttons, tags, chips, categories, and other UI elements.
+
+## 🎯 What I Learned
+
+- Creating a **Wrap widget**.
+- Adding multiple widgets inside a Wrap.
+- Automatically moving widgets to the **next line** when space is unavailable.
+- Using the **`spacing`** property to add space between widgets.
+- Using the **`runSpacing`** property to add space between rows or columns.
+- Using the **`alignment`** property to align widgets.
+- Using the **`direction`** property to control the layout direction.
+- Creating flexible and responsive Flutter layouts.
+
+## 🛠️ Wrap Widget Properties
+
+- `children`
+- `direction`
+- `alignment`
+- `spacing`
+- `runAlignment`
+- `runSpacing`
+- `crossAxisAlignment`
+- `textDirection`
+- `verticalDirection`
+- `clipBehavior`
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **Wrap widget** in Flutter.
+- Understood how widgets automatically move to the **next line** when space is unavailable.
+- Learned how to control spacing between widgets using **`spacing`**.
+- Learned how to control spacing between rows using **`runSpacing`**.
+- Understood how to align children using the **`alignment`** property.
+- Improved my understanding of **responsive and flexible UI layouts** in Flutter.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2239eb57-bbe2-442f-9580-871912ad31da" />
+
+
+---w
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -355,7 +401,7 @@ Today I practiced the **Stack widget** in Flutter. The Stack widget is used to *
 - ✅ Expanded Widget
 - ✅ Flexible Widget
 - ✅ Stack Widget
-- 🔀 Wrap Widget
+- ✅ Wrap Widget
 - 📋 ListView Widget
 - 🗂️ GridView Widget
 - ⌨️ TextField Widget
