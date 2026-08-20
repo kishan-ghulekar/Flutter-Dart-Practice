@@ -389,7 +389,63 @@ Today I practiced the **Wrap widget** in Flutter. The Wrap widget is used to arr
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2239eb57-bbe2-442f-9580-871912ad31da" />
 
 
----w
+---
+
+# 📌 Day 12 - ListView Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **ListView widget** in Flutter. The ListView widget is used to display multiple widgets in a **scrollable list**. It is commonly used for displaying users, products, messages, categories, settings, and other list-based content.
+
+## 🎯 What I Learned
+
+-  Creating a **ListView widget**.
+-  Adding multiple widgets inside a ListView.
+-  Creating list items using **ListTile**.
+-  Using the **`leading`** property to display an icon before a list item.
+-  Using the **`title`** property to display the main content.
+-  Using the **`subtitle`** property to display additional information.
+-  Creating a **scrollable list** of widgets.
+-  Understanding how ListView handles multiple children.
+-  Creating flexible and user-friendly list-based UI layouts.
+
+## 🛠️ ListView Widget Properties
+
+- `children`
+- `scrollDirection`
+- `reverse`
+- `controller`
+- `primary`
+- `physics`
+- `shrinkWrap`
+- `padding`
+- `itemExtent`
+- `cacheExtent`
+
+## 🚀 Learning Outcome
+
+-  Learned how to use the **ListView widget** in Flutter.
+-  Understood how to display multiple widgets in a **scrollable list**.
+-  Learned how to use **ListTile** to create structured list items.
+-  Understood how to customize list items using **`leading`**, **`title`**, and **`subtitle`**.
+-  Learned how ListView handles content that exceeds the available screen space.
+-  Improved my understanding of **scrollable and flexible UI layouts**.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/71b27625-785e-4628-8d83-46e7b4b443eb" />
+
+## 🔗 Flutter Documentation
+
+- 📚 [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+- 📚 [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
+
+
+## 🏷️ Tags
+
+#Flutter #Dart #ListView #ListTile #FlutterWidgets #FlutterPractice #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
 
 ## 📚 Upcoming Widgets
 
