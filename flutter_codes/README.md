@@ -447,6 +447,65 @@ Today I practiced the **ListView widget** in Flutter. The ListView widget is use
 
 ---
 
+# 📌 Day 13 - GridView Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **GridView widget** in Flutter. The GridView widget is used to display multiple widgets in a **scrollable grid layout** with rows and columns. It is commonly used for displaying products, images, categories, menus, dashboards, and other grid-based content.
+
+## 🎯 What I Learned
+
+- Creating a **GridView widget**.
+- Using **`GridView.count()`** to create a grid layout.
+- Using **`crossAxisCount`** to define the number of columns.
+- Adding multiple widgets inside a GridView.
+- Using **`crossAxisSpacing`** to add horizontal spacing between grid items.
+- Using **`mainAxisSpacing`** to add vertical spacing between grid items.
+- Using **`padding`** to add space around the grid.
+- Creating a **scrollable grid** of widgets.
+- Understanding how GridView arranges widgets into rows and columns.
+- Creating flexible and user-friendly grid-based UI layouts.
+
+## 🛠️ GridView Widget Properties
+
+- `children`
+- `crossAxisCount`
+- `crossAxisSpacing`
+- `mainAxisSpacing`
+- `padding`
+- `scrollDirection`
+- `reverse`
+- `controller`
+- `physics`
+- `shrinkWrap`
+- `childAspectRatio`
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **GridView widget** in Flutter.
+- Understood how to display multiple widgets in a **scrollable grid layout**.
+- Learned how to use **`crossAxisCount`** to control the number of columns.
+- Understood how to add spacing using **`crossAxisSpacing`** and **`mainAxisSpacing`**.
+- Learned how GridView handles content that exceeds the available screen space.
+- Improved my understanding of **grid layouts, scrolling, spacing, and responsive UI design**.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/9d94025d-8559-4306-aea9-dad99703da98" />
+
+
+## 🔗 Flutter Documentation
+
+- 📚 [GridView](https://api.flutter.dev/flutter/widgets/GridView-class.html)
+- 📚 [GridView.count](https://api.flutter.dev/flutter/widgets/GridView/GridView.count.html)
+
+
+## 🏷️ Tags
+
+#Flutter #Dart #GridView #FlutterWidgets #FlutterPractice #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -458,8 +517,8 @@ Today I practiced the **ListView widget** in Flutter. The ListView widget is use
 - ✅ Flexible Widget
 - ✅ Stack Widget
 - ✅ Wrap Widget
-- 📋 ListView Widget
-- 🗂️ GridView Widget
+- ✅ ListView Widget
+- ✅ GridView Widget
 - ⌨️ TextField Widget
 - 🔘 ElevatedButton Widget
 - 🎛️ IconButton Widget
