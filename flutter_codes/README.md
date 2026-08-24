@@ -506,6 +506,67 @@ Today I practiced the **GridView widget** in Flutter. The GridView widget is use
 
 ---
 
+# 📌 Day 14 - TextField Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **TextField widget** in Flutter. The TextField widget is used to **accept text input from users**. It is commonly used in login forms, registration forms, search bars, feedback forms, and other user input interfaces.
+
+## 🎯 What I Learned
+
+- Creating a **TextField widget**.
+- Using **`InputDecoration`** to customize the TextField.
+- Using **`labelText`** to display a label.
+- Using **`hintText`** to provide a hint to the user.
+- Using **`prefixIcon`** to add an icon inside the TextField.
+- Using **`border`** to customize the TextField border.
+- Understanding how TextField accepts **user input**.
+- Creating simple and user-friendly input fields.
+- Understanding the basic structure of form input fields in Flutter.
+
+## 🛠️ TextField Widget Properties
+
+- `controller`
+- `decoration`
+- `keyboardType`
+- `obscureText`
+- `onChanged`
+- `onSubmitted`
+- `textInputAction`
+- `maxLength`
+- `maxLines`
+- `enabled`
+- `readOnly`
+- `autofocus`
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **TextField widget** in Flutter.
+- Understood how to accept **text input from users**.
+- Learned how to customize TextField using **`InputDecoration`**.
+- Understood the use of **`labelText`**, **`hintText`**, and **`prefixIcon`**.
+- Learned how to create clean and user-friendly input fields.
+- Improved my understanding of **user input, form fields, widgets, and Flutter UI design**.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/fa6ffc4e-4acb-41b7-a15a-c9b3e16da7d9" />
+
+
+<!-- Add your TextField screenshot here -->
+
+## 🔗 Flutter Documentation
+
+- 📚 [TextField](https://api.flutter.dev/flutter/material/TextField-class.html)
+- 📚 [InputDecoration](https://api.flutter.dev/flutter/material/InputDecoration-class.html)
+- 📚 [TextEditingController](https://api.flutter.dev/flutter/widgets/TextEditingController-class.html)
+
+## 🏷️ Tags
+
+#Flutter #Dart #TextField #InputDecoration #FlutterWidgets #FlutterPractice #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -519,7 +580,7 @@ Today I practiced the **GridView widget** in Flutter. The GridView widget is use
 - ✅ Wrap Widget
 - ✅ ListView Widget
 - ✅ GridView Widget
-- ⌨️ TextField Widget
+- ✅ TextField Widget
 - 🔘 ElevatedButton Widget
 - 🎛️ IconButton Widget
 - ➕ FloatingActionButton Widget
