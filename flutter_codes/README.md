@@ -567,6 +567,86 @@ Today I practiced the **TextField widget** in Flutter. The TextField widget is u
 
 ---
 
+# 📌 Day 15 - ElevatedButton Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **ElevatedButton widget** in Flutter. The ElevatedButton widget is used to create **interactive buttons** in Flutter applications. It is commonly used for actions such as **Login, Register, Submit, Save, Delete, and Continue**.
+
+The ElevatedButton provides a raised Material Design appearance and performs an action when the user presses it. It can also be customized according to the design requirements of the application.
+
+## 🎯 What I Learned
+
+- Creating an **ElevatedButton widget**.
+- Using **`onPressed`** to handle button click events.
+- Using **`child`** to display text or other widgets.
+- Using **`style`** to customize the button.
+- Using **`ElevatedButton.styleFrom()`** for button styling.
+- Changing the **background color**.
+- Changing the **text and icon color**.
+- Adjusting the **button elevation**.
+- Adding **padding** to the button.
+- Changing the **button shape**.
+- Creating buttons with **icons**.
+- Understanding **button interactions**.
+- Creating simple and user-friendly buttons in Flutter.
+
+## 🛠️ ElevatedButton Widget Properties
+
+- `onPressed`
+- `onLongPress`
+- `child`
+- `style`
+- `autofocus`
+- `focusNode`
+- `onHover`
+- `onFocusChange`
+- `clipBehavior`
+- `icon`
+- `label`
+
+## 🎨 Styling ElevatedButton
+
+The appearance of an ElevatedButton can be customized using different styling properties.
+
+Some commonly customized properties include:
+
+- 🎨 **Background Color**
+- 📝 **Foreground Color**
+- ⬆️ **Elevation**
+- 📏 **Padding**
+- 🔲 **Shape**
+- 🖼️ **Border**
+- ✍️ **Text Style**
+
+This makes it easy to create buttons that match the design of a Flutter application.
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **ElevatedButton widget** in Flutter.
+- Understood how the **`onPressed`** callback works.
+- Learned how to handle **button click events**.
+- Learned how to customize ElevatedButton using different styling properties.
+- Understood how to change **button colors, elevation, padding, and shape**.
+- Learned how to create interactive buttons for different application actions.
+- Improved my understanding of **Flutter widgets, user interaction, and UI design**.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/cdd64566-dc9e-4139-9f85-aaf29d75adaf" />
+
+## 🔗 Flutter Documentation
+
+- 📚 [ElevatedButton](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
+- 📚 [ButtonStyle](https://api.flutter.dev/flutter/material/ButtonStyle-class.html)
+- 📚 [ElevatedButton.styleFrom](https://api.flutter.dev/flutter/material/ElevatedButton/styleFrom.html)
+
+## 🏷️ Tags
+
+#Flutter #Dart #ElevatedButton #ButtonStyle #FlutterWidgets #FlutterPractice #FlutterUI #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -581,7 +661,7 @@ Today I practiced the **TextField widget** in Flutter. The TextField widget is u
 - ✅ ListView Widget
 - ✅ GridView Widget
 - ✅ TextField Widget
-- 🔘 ElevatedButton Widget
+- ✅ ElevatedButton Widget
 - 🎛️ IconButton Widget
 - ➕ FloatingActionButton Widget
 - ☑️ Checkbox Widget
