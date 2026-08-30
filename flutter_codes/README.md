@@ -647,6 +647,97 @@ This makes it easy to create buttons that match the design of a Flutter applicat
 
 ---
 
+# 📌 Day 16 - Icon Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Icon widget** in Flutter. The Icon widget is used to display **icons** in Flutter applications. Icons are commonly used to represent actions, features, navigation options, and information in a user interface.
+
+Flutter provides a large collection of built-in Material Icons that can be easily used with the `Icon` widget. The appearance of an icon can also be customized using properties such as **color, size, semanticLabel, and textDirection**.
+
+## 🎯 What I Learned
+
+* Creating an **Icon widget**.
+* Using **Material Icons** in Flutter.
+* Using `Icons` to select built-in icons.
+* Changing the **icon size**.
+* Changing the **icon color**.
+* Using **`semanticLabel`** for accessibility.
+* Understanding how icons are used in Flutter UI.
+* Using icons to represent different actions and information.
+* Combining icons with other Flutter widgets.
+* Creating simple and user-friendly interfaces using icons.
+* Understanding the difference between **Icon** and **IconButton**.
+* Improving UI design using appropriate icons.
+
+## 🛠️ Icon Widget Properties
+
+* `icon`
+* `size`
+* `color`
+* `semanticLabel`
+* `textDirection`
+* `shadows`
+* `applyTextScaling`
+* `fill`
+* `weight`
+* `grade`
+* `opticalSize`
+
+## 🎨 Customizing Icon
+The appearance of an Icon widget can be customized using different properties.
+
+Some commonly customized properties include:
+
+* 🎨 **Color**
+* 📏 **Size**
+* 🖼️ **Icon Style**
+* ♿ **Semantic Label**
+* ✨ **Shadows**
+* 🔤 **Text Direction**
+
+Flutter provides many built-in icons through the `Icons` class, such as:
+
+* ❤️ `Icons.favorite`
+* 🔍 `Icons.search`
+* 🏠 `Icons.home`
+* ⚙️ `Icons.settings`
+* 🗑️ `Icons.delete`
+* ✏️ `Icons.edit`
+* 👤 `Icons.person`
+* 📧 `Icons.email`
+
+These icons can be easily customized according to the application's design requirements.
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **Icon widget** in Flutter.
+* Understood how to use the **`Icons` class**.
+* Learned how to display different Material Icons.
+* Learned how to customize **icon size and color**.
+* Understood the importance of icons in UI design.
+* Learned how to use icons with other Flutter widgets.
+* Understood the difference between **Icon** and **IconButton**.
+* Learned how icons can improve application usability and visual appearance.
+* Improved my understanding of **Flutter widgets and UI design**.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/eff678e3-c1c1-410e-b295-06ce25d44100" />
+
+
+## 🔗 Flutter Documentation
+
+* 📚 [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
+* 📚 [Icons](https://api.flutter.dev/flutter/material/Icons-class.html)
+* 📚 [IconData](https://api.flutter.dev/flutter/widgets/IconData-class.html)
+
+## 🏷️ Tags
+
+#Flutter #Dart #Icon #Icons #IconWidget #MaterialIcons #FlutterWidgets #FlutterPractice #FlutterUI #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -662,7 +753,7 @@ This makes it easy to create buttons that match the design of a Flutter applicat
 - ✅ GridView Widget
 - ✅ TextField Widget
 - ✅ ElevatedButton Widget
-- 🎛️ IconButton Widget
+- ✅ IconButton Widget
 - ➕ FloatingActionButton Widget
 - ☑️ Checkbox Widget
 - 🔘 Radio Widget
