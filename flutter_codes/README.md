@@ -738,6 +738,119 @@ These icons can be easily customized according to the application's design requi
 
 ---
 
+# 📌 Day 17 - FloatingActionButton Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **FloatingActionButton (FAB) widget** in Flutter. The FloatingActionButton is a circular button commonly used to perform the **primary action** of a screen. It is generally placed at the bottom-right corner of the application using the `Scaffold` widget.
+
+The FloatingActionButton is commonly used for actions such as **adding a new item, creating a new note, opening the camera, composing a message, or performing other important actions**.
+
+## 🎯 What I Learned
+
+* Creating a **FloatingActionButton widget**.
+* Using the `onPressed` property to handle button actions.
+* Adding an **Icon** inside the FloatingActionButton.
+* Using the `child` property to display an icon or widget.
+* Understanding how FloatingActionButton works with the **Scaffold widget**.
+* Positioning the FloatingActionButton on the screen.
+* Changing the **background color** of the button.
+* Changing the **foreground color** of the icon.
+* Using the **tooltip** property for better usability and accessibility.
+* Understanding the difference between **FloatingActionButton** and **IconButton**.
+* Creating interactive and user-friendly Flutter interfaces.
+* Understanding common real-world uses of FloatingActionButton.
+
+## 🛠️ FloatingActionButton Properties
+
+Some commonly used properties of the FloatingActionButton include:
+
+* `onPressed`
+* `child`
+* `backgroundColor`
+* `foregroundColor`
+* `tooltip`
+* `mini`
+* `shape`
+* `elevation`
+* `focusElevation`
+* `hoverElevation`
+* `disabledElevation`
+* `heroTag`
+* `mouseCursor`
+* `splashColor`
+
+## 🎨 Customizing FloatingActionButton
+
+The appearance and behavior of a FloatingActionButton can be customized using different properties.
+
+Some commonly customized properties include:
+
+* 🎨 **Background Color**
+* 🎨 **Foreground Color**
+* 📏 **Size**
+* 🔘 **Shape**
+* ✨ **Elevation**
+* 💬 **Tooltip**
+* 🔔 **Icon**
+* ⚡ **Button Action**
+
+A FloatingActionButton can contain different icons depending on the purpose of the action.
+
+Some commonly used icons include:
+
+* ➕ `Icons.add`
+* ✏️ `Icons.edit`
+* 🗑️ `Icons.delete`
+* 📷 `Icons.camera_alt`
+* ❤️ `Icons.favorite`
+* 🔍 `Icons.search`
+* 📤 `Icons.send`
+* 📍 `Icons.location_on`
+
+## 💡 Real-World Usage
+
+FloatingActionButton is commonly used in applications for:
+
+* ➕ Adding a new item
+* 📝 Creating a new note
+* 📷 Opening the camera
+* 💬 Starting a new chat
+* 📍 Adding a new location
+* 🛒 Adding a new product
+* ✉️ Composing a new message
+* 📝 Creating a new post
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **FloatingActionButton widget** in Flutter.
+* Understood the purpose of a **FloatingActionButton**.
+* Learned how to handle button clicks using `onPressed`.
+* Learned how to add icons inside the FloatingActionButton.
+* Learned how to customize the button's appearance.
+* Understood how FloatingActionButton is used with the **Scaffold widget**.
+* Learned about commonly used FloatingActionButton properties.
+* Understood the difference between **FloatingActionButton** and **IconButton**.
+* Learned how FABs are used for primary actions in mobile applications.
+* Improved my understanding of **Flutter widgets and interactive UI design**.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6e1f4327-b8a9-4c1c-a888-e55f04d582c4" />
+
+
+## 🔗 Flutter Documentation
+
+* 📚 [FloatingActionButton](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
+* 📚 [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+* 📚 [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
+
+## 🏷️ Tags
+
+#Flutter #Dart #FloatingActionButton #FAB #FlutterWidgets #Icon #IconButton #Scaffold #FlutterUI #FlutterPractice #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
