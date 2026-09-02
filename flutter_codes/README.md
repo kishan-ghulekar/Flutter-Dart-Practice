@@ -851,6 +851,116 @@ FloatingActionButton is commonly used in applications for:
 
 ---
 
+# 📌 Day 18 - Checkbox Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Checkbox widget** in Flutter. The Checkbox widget is used to allow users to **select or deselect an option**. It is commonly used in forms, settings, task lists, preferences, and terms & conditions.
+
+The Checkbox widget represents a **true or false** value and provides an interactive way for users to make selections.
+
+## 🎯 What I Learned
+
+* Creating a **Checkbox widget**.
+* Using the `value` property to control the checkbox state.
+* Using the `onChanged` property to handle checkbox changes.
+* Managing checkbox state using `setState()`.
+* Understanding the difference between **checked and unchecked** states.
+* Adding text along with a Checkbox.
+* Creating interactive selection controls.
+* Understanding how Checkbox works inside a **StatefulWidget**.
+* Customizing the appearance of a Checkbox.
+* Understanding common real-world uses of Checkbox.
+* Creating user-friendly Flutter interfaces.
+
+## 🛠️ Checkbox Properties
+
+Some commonly used properties of the Checkbox widget include:
+
+* `value`
+* `onChanged`
+* `activeColor`
+* `checkColor`
+* `fillColor`
+* `overlayColor`
+* `focusColor`
+* `hoverColor`
+* `splashRadius`
+* `shape`
+* `side`
+* `visualDensity`
+* `materialTapTargetSize`
+* `mouseCursor`
+* `tristate`
+
+## 🎨 Customizing Checkbox
+
+The appearance and behavior of a Checkbox can be customized using different properties.
+
+Some commonly customized properties include:
+
+* 🎨 **Active Color**
+* 🎨 **Check Color**
+* 🔲 **Shape**
+* 🖱️ **Mouse Cursor**
+* 📏 **Visual Density**
+* ✨ **Overlay Color**
+* ⚡ **Checkbox State**
+* 🔘 **Border Style**
+
+A Checkbox can be combined with text to create different selection options.
+
+Some common examples include:
+
+* ☑️ Accept Terms & Conditions
+* ☑️ Remember Me
+* ☑️ Enable Notifications
+* ☑️ Mark Task as Completed
+* ☑️ Subscribe to Newsletter
+* ☑️ Enable Dark Mode
+
+## 💡 Real-World Usage
+
+Checkbox is commonly used in applications for:
+
+* ✅ Accepting Terms & Conditions
+* 📝 Selecting completed tasks
+* 🔔 Enabling notifications
+* 👤 Selecting user preferences
+* 🛒 Selecting multiple products
+* 📧 Subscribing to newsletters
+* 🔐 Remember Me options
+* ⚙️ Enabling or disabling settings
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **Checkbox widget** in Flutter.
+* Understood the purpose of a Checkbox.
+* Learned how to manage checkbox state using `setState()`.
+* Learned how to use the `value` and `onChanged` properties.
+* Learned how to customize the Checkbox appearance.
+* Understood the difference between checked and unchecked states.
+* Learned how Checkbox is used in forms and settings.
+* Understood common real-world applications of Checkbox.
+* Improved my understanding of **Flutter state management and interactive UI design**.
+
+## 📸 Screenshot
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/5d4a4e87-c9f5-46af-8244-e7b5a3195495" />
+
+
+## 🔗 Flutter Documentation
+
+* 📚 [Checkbox](https://api.flutter.dev/flutter/material/Checkbox-class.html)
+* 📚 [StatefulWidget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
+* 📚 [setState](https://api.flutter.dev/flutter/widgets/State/setState.html)
+
+## 🏷️ Tags
+
+#Flutter #Dart #Checkbox #CheckboxWidget #FlutterWidgets #StatefulWidget #SetState #FlutterUI #FlutterPractice #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -867,8 +977,8 @@ FloatingActionButton is commonly used in applications for:
 - ✅ TextField Widget
 - ✅ ElevatedButton Widget
 - ✅ IconButton Widget
-- ➕ FloatingActionButton Widget
-- ☑️ Checkbox Widget
+- ✅  FloatingActionButton Widget
+- ✅  Checkbox Widget
 - 🔘 Radio Widget
 - 🔄 Switch Widget
 - 🏠 Scaffold Widget
