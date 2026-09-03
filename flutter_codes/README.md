@@ -340,7 +340,7 @@ Today I practiced the **Stack widget** in Flutter. The Stack widget is used to *
 - Improved understanding of **layered and responsive Flutter UI layouts**.
 
 ## ScreenShot
-<img width="300" height="500" alt="stack_widget" src="https://github.com/user-attachments/assets/f173db8d-ae31-4b4e-83ba-62786e0d74d0" />
+<img width="250" height="500" alt="stack_widget" src="https://github.com/user-attachments/assets/f173db8d-ae31-4b4e-83ba-62786e0d74d0" />
 
 
 ---
@@ -386,7 +386,7 @@ Today I practiced the **Wrap widget** in Flutter. The Wrap widget is used to arr
 
 ## 📸 Screenshot
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2239eb57-bbe2-442f-9580-871912ad31da" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/2239eb57-bbe2-442f-9580-871912ad31da" />
 
 
 ---
@@ -491,7 +491,7 @@ Today I practiced the **GridView widget** in Flutter. The GridView widget is use
 
 ## 📸 Screenshot
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/9d94025d-8559-4306-aea9-dad99703da98" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/9d94025d-8559-4306-aea9-dad99703da98" />
 
 
 ## 🔗 Flutter Documentation
@@ -550,7 +550,7 @@ Today I practiced the **TextField widget** in Flutter. The TextField widget is u
 
 ## 📸 Screenshot
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/fa6ffc4e-4acb-41b7-a15a-c9b3e16da7d9" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/fa6ffc4e-4acb-41b7-a15a-c9b3e16da7d9" />
 
 
 <!-- Add your TextField screenshot here -->
@@ -633,7 +633,7 @@ This makes it easy to create buttons that match the design of a Flutter applicat
 
 ## 📸 Screenshot
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/cdd64566-dc9e-4139-9f85-aaf29d75adaf" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/cdd64566-dc9e-4139-9f85-aaf29d75adaf" />
 
 ## 🔗 Flutter Documentation
 
@@ -723,7 +723,7 @@ These icons can be easily customized according to the application's design requi
 
 ## 📸 Screenshot
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/eff678e3-c1c1-410e-b295-06ce25d44100" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/eff678e3-c1c1-410e-b295-06ce25d44100" />
 
 
 ## 🔗 Flutter Documentation
@@ -836,7 +836,7 @@ FloatingActionButton is commonly used in applications for:
 
 ## 📸 Screenshot
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6e1f4327-b8a9-4c1c-a888-e55f04d582c4" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/6e1f4327-b8a9-4c1c-a888-e55f04d582c4" />
 
 
 ## 🔗 Flutter Documentation
@@ -945,7 +945,7 @@ Checkbox is commonly used in applications for:
 
 ## 📸 Screenshot
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/5d4a4e87-c9f5-46af-8244-e7b5a3195495" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/5d4a4e87-c9f5-46af-8244-e7b5a3195495" />
 
 
 ## 🔗 Flutter Documentation
@@ -957,6 +957,121 @@ Checkbox is commonly used in applications for:
 ## 🏷️ Tags
 
 #Flutter #Dart #Checkbox #CheckboxWidget #FlutterWidgets #StatefulWidget #SetState #FlutterUI #FlutterPractice #MobileAppDevelopment #LearningFlutter #100DaysOfCode
+
+---
+
+# 📌 Day 19 - Radio Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Radio widget** in Flutter. The Radio widget is used to allow users to **select one option from a group of choices**. It is commonly used in forms, settings, preferences, payment methods, and selection screens.
+
+The Radio widget allows users to select **only one option** from multiple available choices.
+
+## 🎯 What I Learned
+
+* Creating a **Radio widget**.
+* Using the `value` property to define a radio option.
+* Using the `groupValue` property to control the selected option.
+* Using the `onChanged` property to handle radio button changes.
+* Managing radio button state using `setState()`.
+* Understanding the difference between **selected and unselected** states.
+* Adding text along with a Radio button.
+* Creating interactive single-selection controls.
+* Understanding how Radio works inside a **StatefulWidget**.
+* Using `RadioListTile` to combine Radio with text.
+* Customizing the appearance of a Radio button.
+* Understanding common real-world uses of Radio.
+* Creating user-friendly Flutter interfaces.
+
+## 🛠️ Radio Properties
+
+Some commonly used properties of the Radio widget include:
+
+* `value`
+* `groupValue`
+* `onChanged`
+* `activeColor`
+* `fillColor`
+* `overlayColor`
+* `focusColor`
+* `hoverColor`
+* `splashRadius`
+* `mouseCursor`
+* `visualDensity`
+* `materialTapTargetSize`
+* `toggleable`
+* `autofocus`
+
+## 🎨 Customizing Radio
+
+The appearance and behavior of a Radio can be customized using different properties.
+Some commonly customized properties include:
+
+* 🎨 **Active Color**
+* 🎨 **Fill Color**
+* 🖱️ **Mouse Cursor**
+* 📏 **Visual Density**
+* ✨ **Overlay Color**
+* ⚡ **Radio State**
+* 📍 **Radio Position**
+* 📝 **Text Position**
+
+A Radio can be combined with text to create different single-selection options.
+
+Some common examples include:
+
+* 🔘 Select Gender
+* 🔘 Select Payment Method
+* 🔘 Select Language
+* 🔘 Select Course
+* 🔘 Select Delivery Option
+* 🔘 Select Theme
+
+## 💡 Real-World Usage
+
+Radio is commonly used in applications for:
+
+* 👤 Selecting Gender
+* 💳 Selecting Payment Methods
+* 🌐 Selecting Language
+* 📚 Selecting a Course
+* 🚚 Selecting Delivery Options
+* 🎨 Selecting Application Themes
+* ⚙️ Selecting Settings
+* 📋 Selecting a Category
+* 🏠 Selecting Address Type
+* 🔘 Selecting one option from multiple choices
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **Radio widget** in Flutter.
+* Understood the purpose of a Radio button.
+* Learned how to manage Radio state using `setState()`.
+* Learned how to use the `value`, `groupValue`, and `onChanged` properties.
+* Learned how to create single-selection controls.
+* Learned how to combine Radio with text using `RadioListTile`.
+* Learned how to customize the Radio appearance.
+* Understood the difference between selected and unselected states.
+* Learned how Radio is used in forms and settings.
+* Understood common real-world applications of Radio buttons.
+* Improved my understanding of **Flutter state management and interactive UI design**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/8bde08af-b4f9-4331-89c7-64ad51c0ab24" />
+
+
+## 🔗 Flutter Documentation
+
+* 📚 [Radio](https://api.flutter.dev/flutter/material/Radio-class.html)
+* 📚 [RadioListTile](https://api.flutter.dev/flutter/material/RadioListTile-class.html)
+* 📚 [StatefulWidget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
+* 📚 [setState](https://api.flutter.dev/flutter/widgets/State/setState.html)
+
+## 🏷️ Tags
+
+#Flutter #Dart #Radio #RadioWidget #RadioListTile #FlutterWidgets #StatefulWidget #SetState #FlutterUI #FlutterPractice #MobileAppDevelopment #LearningFlutter #100DaysOfCode
 
 ---
 
