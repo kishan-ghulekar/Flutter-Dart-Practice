@@ -896,7 +896,6 @@ Some commonly used properties of the Checkbox widget include:
 ## 🎨 Customizing Checkbox
 
 The appearance and behavior of a Checkbox can be customized using different properties.
-
 Some commonly customized properties include:
 
 * 🎨 **Active Color**
