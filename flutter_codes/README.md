@@ -1075,6 +1075,116 @@ Radio is commonly used in applications for:
 
 ---
 
+# 📌 Day 20 - Switch Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Switch widget** in Flutter. The Switch widget is used to allow users to **turn a setting ON or OFF**. It is commonly used in settings, preferences, notifications, dark mode, Wi-Fi, Bluetooth, and other toggle-based controls.
+
+The Switch widget provides a simple way for users to enable or disable a particular feature.
+
+## 🎯 What I Learned
+
+* Creating a **Switch widget**.
+* Using the `value` property to define the current switch state.
+* Using the `onChanged` property to handle switch state changes.
+* Managing switch state using `setState()`.
+* Understanding the difference between **ON and OFF** states.
+* Using a `bool` variable to store the switch state.
+* Creating interactive toggle controls.
+* Understanding how Switch works inside a **StatefulWidget**.
+* Using `SwitchListTile` to combine Switch with text.
+* Customizing the appearance of a Switch.
+* Understanding common real-world uses of Switch.
+* Creating user-friendly Flutter interfaces.
+
+## 🛠️ Switch Properties
+
+Some commonly used properties of the Switch widget include:
+
+* `value`
+* `onChanged`
+* `activeColor`
+* `activeTrackColor`
+* `inactiveThumbColor`
+* `inactiveTrackColor`
+* `thumbColor`
+* `trackColor`
+* `overlayColor`
+* `focusColor`
+* `hoverColor`
+* `splashRadius`
+* `mouseCursor`
+* `visualDensity`
+* `materialTapTargetSize`
+* `autofocus`
+
+## 🎨 Customizing Switch
+
+The appearance and behavior of a Switch can be customized using different properties. Some commonly customized properties include:
+
+* 🎨 **Active Color**
+* 🎨 **Track Color**
+* ⚪ **Thumb Color**
+* 🖱️ **Mouse Cursor**
+* 📏 **Visual Density**
+* ✨ **Overlay Color**
+* ⚡ **Switch State**
+* 📍 **Switch Position**
+* 📝 **Text Position**
+
+A Switch can be combined with text to create different toggle-based settings.
+
+Some common examples include:
+
+* 🔄 Enable Notifications
+* 🔄 Dark Mode
+* 🔄 Wi-Fi
+* 🔄 Bluetooth
+* 🔄 Location Services
+* 🔄 Sound
+* 🔄 Auto Update
+* 🔄 Remember Me
+
+## 💡 Real-World Usage
+
+Switch is commonly used in applications for:
+
+* 🔔 Enabling Notifications
+* 🌙 Enabling Dark Mode
+* 📶 Turning Wi-Fi ON/OFF
+* 📱 Enabling Mobile Features
+* 🔵 Turning Bluetooth ON/OFF
+* 📍 Enabling Location Services
+* 🔊 Enabling Sound
+* 🔄 Enabling Auto Update
+* 🔐 Enabling Privacy Settings
+* ⚙️ Managing Application Settings
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **Switch widget** in Flutter.
+* Understood the purpose of a Switch.
+* Learned how to manage Switch state using `setState()`.
+* Learned how to use the `value` and `onChanged` properties.
+* Learned how to create ON/OFF controls.
+* Learned how to use a `bool` variable to manage Switch state.
+* Learned how to combine Switch with text using `SwitchListTile`.
+* Learned how to customize the Switch appearance.
+* Understood the difference between ON and OFF states.
+* Learned how Switch is used in application settings.
+* Understood common real-world applications of Switch controls.
+* Improved my understanding of **Flutter state management and interactive UI design**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/f831de0c-940d-4bc2-a4f7-08e3fa8c346e" />
+
+
+#SwitchWidget #FlutterSwitch #Flutter #FlutterWidgets #Dart #ToggleSwitch #FlutterUI #StatefulWidget #setState #InteractiveUI #FlutterDevelopment #MobileUI #FlutterDevelopment #UIDesign
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -1093,8 +1203,8 @@ Radio is commonly used in applications for:
 - ✅ IconButton Widget
 - ✅  FloatingActionButton Widget
 - ✅  Checkbox Widget
-- 🔘 Radio Widget
-- 🔄 Switch Widget
+- ✅ Radio Widget
+- ✅ Switch Widget
 - 🏠 Scaffold Widget
 - 📌 AppBar Widget
 - 📂 Drawer Widget
