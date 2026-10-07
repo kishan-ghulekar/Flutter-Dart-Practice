@@ -1185,6 +1185,114 @@ Switch is commonly used in applications for:
 
 ---
 
+# 📌 Day 21 - Scaffold Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Scaffold widget** in Flutter. The Scaffold widget provides the basic **visual structure and layout of a Material Design screen**. It is commonly used to organize important UI elements such as the **AppBar, Body, FloatingActionButton, Drawer, BottomNavigationBar, and SnackBar**.
+
+The Scaffold widget acts as the main framework of a Flutter screen and helps developers easily arrange different components of an application.
+
+## 🎯 What I Learned
+
+* Creating a **Scaffold widget**.
+* Using the `appBar` property to create an AppBar.
+* Using the `body` property to display the main content.
+* Using the `floatingActionButton` property.
+* Using the `drawer` property for navigation.
+* Using the `bottomNavigationBar` property.
+* Using the `snackBar` through `ScaffoldMessenger`.
+* Understanding the basic structure of a Material Design screen.
+* Creating structured Flutter application screens.
+* Understanding how different widgets work inside a Scaffold.
+* Creating user-friendly Flutter interfaces.
+* Understanding the importance of Scaffold in Flutter application development.
+
+## 🛠️ Scaffold Properties
+
+Some commonly used properties of the Scaffold widget include:
+
+* `appBar`
+* `body`
+* `floatingActionButton`
+* `floatingActionButtonLocation`
+* `drawer`
+* `endDrawer`
+* `bottomNavigationBar`
+* `bottomSheet`
+* `backgroundColor`
+* `resizeToAvoidBottomInset`
+* `persistentFooterButtons`
+* `extendBody`
+* `extendBodyBehindAppBar`
+* `drawerScrimColor`
+
+## 🎨 Customizing Scaffold
+
+The appearance and structure of a Scaffold can be customized using different properties. Some commonly customized properties include:
+
+* 🎨 **Background Color**
+* 📝 **AppBar**
+* 📱 **Body Content**
+* ➕ **Floating Action Button**
+* 📋 **Drawer**
+* 🧭 **Bottom Navigation Bar**
+* 📌 **Bottom Sheet**
+* 🔔 **SnackBar**
+* 📐 **Floating Action Button Position**
+* 🖼️ **Extended Body**
+
+A Scaffold can be combined with different Flutter widgets to create complete application screens.
+
+Some common examples include:
+
+* 🏠 Home Screen
+* 👤 Profile Screen
+* ⚙️ Settings Screen
+* 📱 Dashboard Screen
+* 🛒 Shopping Screen
+* 💬 Chat Screen
+* 🔔 Notification Screen
+* 📋 Form Screen
+
+## 💡 Real-World Usage
+
+Scaffold is commonly used in applications for:
+
+* 🏠 Creating Home Screens
+* 📱 Creating Application Layouts
+* 🧭 Creating Navigation Screens
+* 👤 Creating Profile Pages
+* ⚙️ Creating Settings Pages
+* 🔔 Displaying SnackBars and Notifications
+* ➕ Adding Floating Action Buttons
+* 📋 Creating Navigation Drawers
+* 🧭 Adding Bottom Navigation
+* 📱 Structuring Complete Flutter Screens
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **Scaffold widget** in Flutter.
+* Understood the purpose of Scaffold.
+* Learned how to create an AppBar using `appBar`.
+* Learned how to display content using `body`.
+* Learned how to add a Floating Action Button.
+* Learned how to create navigation using Drawer and BottomNavigationBar.
+* Learned how to customize the Scaffold background.
+* Understood how Scaffold provides the basic structure of a Flutter screen.
+* Learned how different widgets can be organized inside Scaffold.
+* Understood common real-world applications of Scaffold.
+* Improved my understanding of **Flutter UI structure and Material Design**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/88650d24-0bd1-4edc-88c3-7ce4b1a064cc" />
+
+
+#ScaffoldWidget #FlutterScaffold #Flutter #FlutterWidgets #Dart #FlutterUI #AppBar #FloatingActionButton #BottomNavigationBar #Drawer #SnackBar #MaterialDesign #FlutterDevelopment #UIDesign #MobileUI
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -1205,7 +1313,7 @@ Switch is commonly used in applications for:
 - ✅  Checkbox Widget
 - ✅ Radio Widget
 - ✅ Switch Widget
-- 🏠 Scaffold Widget
+- ✅ Scaffold Widget
 - 📌 AppBar Widget
 - 📂 Drawer Widget
 - 🧭 BottomNavigationBar Widget
