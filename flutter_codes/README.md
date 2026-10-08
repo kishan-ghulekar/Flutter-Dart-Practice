@@ -1293,6 +1293,117 @@ Scaffold is commonly used in applications for:
 
 ---
 
+# 📌 Day 22 - AppBar Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **AppBar widget** in Flutter. The AppBar widget is used to create the **top navigation bar of a Material Design application screen**. It is commonly used to display the **screen title, navigation icons, action buttons, search options, notifications, and menus**.
+
+The AppBar widget is usually placed inside the `appBar` property of the **Scaffold widget** and helps create a consistent and user-friendly navigation area.
+
+## 🎯 What I Learned
+
+* Creating an **AppBar widget**.
+* Using the `title` property to display a screen title.
+* Using the `leading` property to add a widget on the left side.
+* Using the `actions` property to add buttons on the right side.
+* Using `centerTitle` to control title alignment.
+* Using `backgroundColor` to customize the AppBar color.
+* Using `elevation` to control the AppBar shadow.
+* Adding icons using `IconButton`.
+* Creating menu, search, and notification buttons.
+* Understanding how AppBar works with Scaffold.
+* Creating structured and user-friendly navigation bars.
+* Customizing AppBar according to application requirements.
+
+## 🛠️ AppBar Properties
+
+Some commonly used properties of the AppBar widget include:
+
+* `title`
+* `leading`
+* `actions`
+* `centerTitle`
+* `backgroundColor`
+* `foregroundColor`
+* `elevation`
+* `shadowColor`
+* `surfaceTintColor`
+* `toolbarHeight`
+* `automaticallyImplyLeading`
+* `leadingWidth`
+* `titleSpacing`
+* `shape`
+* `flexibleSpace`
+* `bottom`
+
+## 🎨 Customizing AppBar
+
+The appearance and functionality of an AppBar can be customized using different properties. Some commonly customized properties include:
+
+* 🎨 **Background Color**
+* 📝 **Title**
+* ↔️ **Title Alignment**
+* ◀️ **Leading Icon**
+* 🔍 **Search Button**
+* 🔔 **Notification Button**
+* ⋮ **More Options Button**
+* 📏 **AppBar Height**
+* 🌑 **Elevation and Shadow**
+* 🧩 **Bottom Widget**
+* 🎨 **Foreground Color**
+
+An AppBar can be combined with different Flutter widgets to create complete and interactive application screens.
+
+Some common examples include:
+
+* 🏠 Home Screen
+* 👤 Profile Screen
+* ⚙️ Settings Screen
+* 📱 Dashboard Screen
+* 🛒 Shopping Screen
+* 💬 Chat Screen
+* 🔔 Notification Screen
+* 🔍 Search Screen
+
+## 💡 Real-World Usage
+
+AppBar is commonly used in applications for:
+
+* 🏠 Creating Home Screen Headers
+* 🧭 Providing Navigation Controls
+* 🔍 Adding Search Functionality
+* 🔔 Displaying Notification Actions
+* 👤 Navigating to Profile Screens
+* ⚙️ Accessing Settings
+* 📋 Providing Menu Options
+* ↩️ Providing Back Navigation
+* 📱 Displaying Screen Titles
+* 🧩 Creating Consistent Application Headers
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **AppBar widget** in Flutter.
+* Understood the purpose of AppBar.
+* Learned how to create an AppBar using the `appBar` property of Scaffold.
+* Learned how to display titles using the `title` property.
+* Learned how to add navigation icons using `leading`.
+* Learned how to add action buttons using `actions`.
+* Learned how to customize AppBar colors and elevation.
+* Understood how AppBar improves application navigation.
+* Learned how AppBar can be combined with other Flutter widgets.
+* Understood common real-world applications of AppBar.
+* Improved my understanding of **Flutter UI structure and Material Design**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/8b4dd06d-201d-4274-9766-266bbed1508d" />
+
+
+#AppBarWidget #FlutterAppBar #Flutter #FlutterWidgets #Dart #FlutterUI #AppBar #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -1309,12 +1420,12 @@ Scaffold is commonly used in applications for:
 - ✅ TextField Widget
 - ✅ ElevatedButton Widget
 - ✅ IconButton Widget
-- ✅  FloatingActionButton Widget
-- ✅  Checkbox Widget
+- ✅ FloatingActionButton Widget
+- ✅ Checkbox Widget
 - ✅ Radio Widget
 - ✅ Switch Widget
 - ✅ Scaffold Widget
-- 📌 AppBar Widget
+- ✅ AppBar Widget
 - 📂 Drawer Widget
 - 🧭 BottomNavigationBar Widget
 - 🗂️ TabBar Widget
