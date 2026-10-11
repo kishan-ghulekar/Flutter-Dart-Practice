@@ -1404,6 +1404,119 @@ AppBar is commonly used in applications for:
 
 ---
 
+# 📌 Day 23 - Drawer Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Drawer widget** in Flutter. The Drawer widget is used to create a **side navigation menu in a Material Design application**. It usually slides in from the left side of the screen when the user taps the menu icon in the AppBar.
+
+The Drawer widget is commonly used to display navigation options such as **Home, Profile, Settings, About, and Logout**. It helps users navigate between different screens and provides a clean and organized navigation experience.
+
+The Drawer widget is generally placed inside the `drawer` property of the **Scaffold widget** and can contain widgets such as `DrawerHeader`, `ListTile`, `Icon`, and `Text`.
+
+## 🎯 What I Learned
+
+* Creating a **Drawer widget**.
+* Using the `drawer` property of the Scaffold widget.
+* Using `DrawerHeader` to create a header section.
+* Using `ListTile` to create navigation menu items.
+* Adding icons using the `leading` property.
+* Displaying menu titles using the `title` property.
+* Handling menu item clicks using the `onTap` property.
+* Closing the Drawer using `Navigator.pop(context)`.
+* Adding navigation options such as Home, Profile, Settings, and About.
+* Customizing the Drawer background and header.
+* Using `Divider` to separate menu items.
+* Understanding how Drawer works with AppBar and Scaffold.
+* Creating structured and user-friendly navigation menus.
+
+## 🛠️ Drawer Properties and Widgets
+
+Some commonly used properties and widgets related to the Drawer include:
+
+* `drawer`
+* `child`
+* `width`
+* `backgroundColor`
+* `elevation`
+* `shape`
+* `semanticLabel`
+* `DrawerHeader`
+* `ListTile`
+* `leading`
+* `title`
+* `subtitle`
+* `trailing`
+* `onTap`
+* `Divider`
+
+## 🎨 Customizing Drawer
+
+The appearance and functionality of a Drawer can be customized using different properties and widgets. Some commonly customized elements include:
+
+* 🎨 **Background Color**
+* 👤 **User Profile Header**
+* 📝 **Header Title and Subtitle**
+* 🏠 **Home Menu Item**
+* 👤 **Profile Menu Item**
+* ⚙️ **Settings Menu Item**
+* ℹ️ **About Menu Item**
+* 🚪 **Logout Menu Item**
+* 🧩 **Menu Icons**
+* 📏 **Drawer Width**
+* 🌑 **Elevation and Shadow**
+* ➖ **Divider Between Menu Items**
+
+A Drawer can be combined with different Flutter widgets to create complete and interactive navigation menus.
+
+Some common examples include:
+
+* 🏠 Home Screen Navigation
+* 👤 User Profile Menu
+* ⚙️ Settings Menu
+* 📱 Dashboard Navigation
+* 🛒 Shopping Application Menu
+* 💬 Chat Application Navigation
+* 🔔 Notification Menu
+* 📋 Admin Dashboard Menu
+
+## 💡 Real-World Usage
+
+The Drawer widget is commonly used in applications for:
+
+* 🧭 Providing Side Navigation
+* 🏠 Navigating to the Home Screen
+* 👤 Displaying User Profile Information
+* ⚙️ Accessing Application Settings
+* 📋 Organizing Menu Options
+* 🔔 Accessing Notifications
+* ℹ️ Displaying About Information
+* 🚪 Providing Logout Options
+* 📱 Navigating Between Multiple Screens
+* 🎨 Creating User-Friendly Application Layouts
+
+## 🚀 Learning Outcome
+
+* Learned how to use the **Drawer widget** in Flutter.
+* Understood the purpose of Drawer in application navigation.
+* Learned how to add a Drawer using the `drawer` property of Scaffold.
+* Learned how to create a header using `DrawerHeader`.
+* Learned how to create menu items using `ListTile`.
+* Learned how to add icons and titles to navigation items.
+* Understood how to handle menu item clicks using `onTap`.
+* Learned how to close the Drawer using `Navigator.pop(context)`.
+* Learned how to customize the Drawer appearance.
+* Understood how Drawer works with AppBar and Scaffold.
+* Improved my understanding of **Flutter UI structure and navigation**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/f2b22295-bb45-440c-ba09-041702e82001" />
+
+
+#DrawerWidget #FlutterDrawer #Flutter #FlutterWidgets #Dart #FlutterUI #NavigationDrawer #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper
+
+---
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -1426,7 +1539,7 @@ AppBar is commonly used in applications for:
 - ✅ Switch Widget
 - ✅ Scaffold Widget
 - ✅ AppBar Widget
-- 📂 Drawer Widget
+- ✅ Drawer Widget
 - 🧭 BottomNavigationBar Widget
 - 🗂️ TabBar Widget
 - 🃏 Card Widget
