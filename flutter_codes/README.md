@@ -1517,6 +1517,125 @@ The Drawer widget is commonly used in applications for:
 #DrawerWidget #FlutterDrawer #Flutter #FlutterWidgets #Dart #FlutterUI #NavigationDrawer #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper
 
 ---
+
+# 📌 Day 24 - BottomNavigationBar Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **BottomNavigationBar widget** in Flutter. The BottomNavigationBar widget is used to create a **navigation bar at the bottom of a Material Design application screen**. It allows users to switch between different screens or sections of an application easily.
+
+The BottomNavigationBar widget is commonly used to display navigation options such as **Home, Search, Notifications, and Profile**. It helps users navigate between different sections and provides a clean and user-friendly navigation experience.
+
+The BottomNavigationBar widget is generally placed inside the `bottomNavigationBar` property of the **Scaffold widget** and can contain widgets such as `BottomNavigationBarItem`, `Icon`, and `Text` through the `label` property.
+
+## 🎯 What I Learned
+
+- Creating a **BottomNavigationBar widget**.
+- Using the `bottomNavigationBar` property of the Scaffold widget.
+- Using `BottomNavigationBarItem` to create navigation items.
+- Adding icons using the `icon` property.
+- Displaying item names using the `label` property.
+- Tracking the selected item using the `currentIndex` property.
+- Handling item clicks using the `onTap` property.
+- Updating the selected screen using `setState()`.
+- Customizing selected and unselected item colors.
+- Using navigation options such as Home, Search, and Profile.
+- Switching between different screens dynamically.
+- Understanding how BottomNavigationBar works with AppBar and Scaffold.
+- Creating structured and user-friendly bottom navigation menus.
+
+## 🛠️ BottomNavigationBar Properties and Widgets
+
+Some commonly used properties and widgets related to the BottomNavigationBar include:
+
+- `bottomNavigationBar`
+- `items`
+- `currentIndex`
+- `onTap`
+- `selectedItemColor`
+- `unselectedItemColor`
+- `backgroundColor`
+- `iconSize`
+- `selectedFontSize`
+- `unselectedFontSize`
+- `showSelectedLabels`
+- `showUnselectedLabels`
+- `type`
+- `BottomNavigationBarItem`
+- `icon`
+- `label`
+- `activeIcon`
+- `tooltip`
+
+## 🎨 Customizing BottomNavigationBar
+
+The appearance and functionality of a BottomNavigationBar can be customized using different properties and widgets. Some commonly customized elements include:
+
+- 🎨 **Background Color**
+- 🏠 **Home Navigation Item**
+- 🔍 **Search Navigation Item**
+- 👤 **Profile Navigation Item**
+- 🔔 **Notifications Navigation Item**
+- 🧩 **Navigation Icons**
+- 📝 **Item Labels**
+- 🔵 **Selected Item Color**
+- ⚪ **Unselected Item Color**
+- 📏 **Icon Size**
+- 🔤 **Selected and Unselected Font Sizes**
+- 👁️ **Show or Hide Navigation Labels**
+- 🔄 **Dynamic Screen Switching**
+
+A BottomNavigationBar can be combined with different Flutter widgets to create complete and interactive navigation systems.
+
+Some common examples include:
+
+- 🏠 Home Screen Navigation
+- 🛒 Shopping Application Navigation
+- 💬 Chat Application Navigation
+- 📱 Social Media Application Navigation
+- 🔔 Notification Screen Navigation
+- 👤 User Profile Navigation
+- 📋 Dashboard Navigation
+- 💳 Payment and Transaction Navigation
+
+## 💡 Real-World Usage
+
+The BottomNavigationBar widget is commonly used in applications for:
+
+- 🧭 Providing Bottom Navigation
+- 🏠 Navigating to the Home Screen
+- 🔍 Accessing Search Functionality
+- 👤 Opening User Profile Information
+- 🔔 Accessing Notifications
+- 💬 Navigating to Messages and Chats
+- 🛒 Accessing Shopping Categories
+- 📱 Switching Between Main Application Sections
+- 🎨 Creating User-Friendly Application Layouts
+- 🔄 Improving Navigation and User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **BottomNavigationBar widget** in Flutter.
+- Understood the purpose of BottomNavigationBar in application navigation.
+- Learned how to add a navigation bar using the `bottomNavigationBar` property of Scaffold.
+- Learned how to create navigation items using `BottomNavigationBarItem`.
+- Learned how to add icons and labels to navigation items.
+- Understood how to track the selected item using `currentIndex`.
+- Learned how to handle item clicks using `onTap`.
+- Learned how to update the UI dynamically using `setState()`.
+- Learned how to customize selected and unselected item colors.
+- Understood how BottomNavigationBar works with AppBar and Scaffold.
+- Improved my understanding of **Flutter UI structure and navigation**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/ce7a9de5-ddbf-4948-809b-980388264145" />
+
+
+#BottomNavigationBar #Flutter #FlutterWidgets #Dart #FlutterUI #BottomNavigation #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper #100DaysOfFlutter
+
+---
+w
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -1540,7 +1659,7 @@ The Drawer widget is commonly used in applications for:
 - ✅ Scaffold Widget
 - ✅ AppBar Widget
 - ✅ Drawer Widget
-- 🧭 BottomNavigationBar Widget
+- ✅ BottomNavigationBar Widget
 - 🗂️ TabBar Widget
 - 🃏 Card Widget
 - 📄 ListTile Widget
