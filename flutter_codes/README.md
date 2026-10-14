@@ -1635,7 +1635,126 @@ The BottomNavigationBar widget is commonly used in applications for:
 #BottomNavigationBar #Flutter #FlutterWidgets #Dart #FlutterUI #BottomNavigation #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper #100DaysOfFlutter
 
 ---
-w
+
+# 📌 Day 25 - TabBar Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **TabBar widget** in Flutter. The TabBar widget is used to create a **tab-based navigation system in a Material Design application**. It allows users to switch between different screens or sections of an application by selecting tabs.
+
+The TabBar widget is commonly used to display navigation options such as **Home, Profile, Settings, and Notifications**. It helps organize related content into different tabs and provides a clean and user-friendly navigation experience.
+
+The TabBar widget is generally used with the `DefaultTabController`, `TabBar`, and `TabBarView` widgets. The `TabBar` displays the tabs, while the `TabBarView` displays the content corresponding to the selected tab.
+
+## 🎯 What I Learned
+
+- Creating a **TabBar widget** in Flutter.
+- Using the `DefaultTabController` widget to manage tabs.
+- Using the `TabBar` widget to display navigation tabs.
+- Using the `Tab` widget to create individual tabs.
+- Adding icons using the `icon` property.
+- Displaying tab names using the `text` property.
+- Using the `TabBarView` widget to display tab content.
+- Switching between different tabs dynamically.
+- Customizing tab indicator colors and styles.
+- Changing the selected tab's appearance.
+- Using the `length` property to define the number of tabs.
+- Understanding how TabBar works with AppBar and Scaffold.
+- Creating structured and user-friendly tab-based navigation.
+
+## 🛠️ TabBar Properties and Widgets
+
+Some commonly used properties and widgets related to the TabBar include:
+
+- `DefaultTabController`
+- `length`
+- `initialIndex`
+- `TabBar`
+- `tabs`
+- `TabBarView`
+- `indicatorColor`
+- `indicatorWeight`
+- `indicatorSize`
+- `labelColor`
+- `unselectedLabelColor`
+- `labelStyle`
+- `unselectedLabelStyle`
+- `isScrollable`
+- `tabAlignment`
+- `icon`
+- `text`
+- `child`
+- `onTap`
+- `controller`
+
+## 🎨 Customizing TabBar
+
+The appearance and functionality of a TabBar can be customized using different properties and widgets. Some commonly customized elements include:
+
+- 🎨 **Tab Indicator Color**
+- 🏠 **Home Tab**
+- 👤 **Profile Tab**
+- ⚙️ **Settings Tab**
+- 🔔 **Notifications Tab**
+- 🧩 **Tab Icons**
+- 📝 **Tab Labels**
+- 🔵 **Selected Tab Color**
+- ⚪ **Unselected Tab Color**
+- 📏 **Indicator Thickness**
+- 🔤 **Label Text Style**
+- ↔️ **Scrollable Tabs**
+- 🔄 **Dynamic Tab Switching**
+
+A TabBar can be combined with different Flutter widgets to create complete and interactive tab-based navigation systems.
+
+Some common examples include:
+
+- 🏠 Home and Dashboard Tabs
+- 🛒 Shopping Application Categories
+- 💬 Chat Application Tabs
+- 📱 Social Media Application Sections
+- 🔔 Notifications and Activity Tabs
+- 👤 User Profile Sections
+- 📋 Dashboard and Reports Tabs
+- 📰 News Categories
+- 🎬 Movies and Entertainment Categories
+- 📚 Learning Application Sections
+
+## 💡 Real-World Usage
+
+The TabBar widget is commonly used in applications for:
+
+- 🧭 Providing Tab-Based Navigation
+- 🏠 Organizing Home Screen Sections
+- 🛒 Displaying Shopping Categories
+- 👤 Switching Between Profile Sections
+- 🔔 Organizing Notifications and Activities
+- 💬 Switching Between Chat Categories
+- 📰 Displaying Different News Categories
+- 📱 Separating Related Application Content
+- 🎨 Creating User-Friendly Application Layouts
+- 🔄 Improving Navigation and User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **TabBar widget** in Flutter.
+- Understood the purpose of TabBar in tab-based navigation.
+- Learned how to manage tabs using `DefaultTabController`.
+- Learned how to create navigation tabs using the `Tab` widget.
+- Learned how to add icons and labels to tabs.
+- Understood how `TabBarView` displays the selected tab's content.
+- Learned how to customize tab indicators and label colors.
+- Understood how to switch between different tabs.
+- Learned how TabBar works with AppBar and Scaffold.
+- Improved my understanding of **Flutter UI structure and navigation**.
+
+## 📸 Screenshot
+
+<img width="20" height="500" alt="image" src="https://github.com/user-attachments/assets/0a7cf4f7-aa7b-4d54-9877-98b5673abcfb" />
+
+#TabBar #Flutter #FlutterWidgets #Dart #FlutterUI #TabNavigation #TabBarView #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper #100DaysOfFlutter
+
+---
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
