@@ -1753,7 +1753,6 @@ The TabBar widget is commonly used in applications for:
 <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/0a7cf4f7-aa7b-4d54-9877-98b5673abcfb" />
 
 #TabBar #Flutter #FlutterWidgets #Dart #FlutterUI #TabNavigation #TabBarView #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper #100DaysOfFlutter
-
 ---
 ## 📚 Upcoming Widgets
 
