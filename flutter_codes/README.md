@@ -1754,6 +1754,127 @@ The TabBar widget is commonly used in applications for:
 
 #TabBar #Flutter #FlutterWidgets #Dart #FlutterUI #TabNavigation #TabBarView #Scaffold #FlutterDevelopment #UIDesign #MobileUI #MaterialDesign #FlutterLearning #FlutterDeveloper #100DaysOfFlutter
 ---
+
+# 📌 Day 26 - Card Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Card widget** in Flutter. The Card widget is used to display **related information inside a card-shaped container with rounded corners and a shadow effect**. It helps organize content and makes the user interface clean, attractive, and user-friendly.
+
+The Card widget is commonly used to display information such as **user profiles, product details, student information, contact details, and dashboard items**. It can contain different widgets such as Text, Image, Icon, Column, Row, and ListTile.
+
+The Card widget provides properties such as `elevation`, `color`, `shape`, `margin`, and `child` to customize its appearance and content.
+
+## 🎯 What I Learned
+
+- Creating a **Card widget** in Flutter.
+- Understanding the purpose of the Card widget.
+- Using the `elevation` property to add a shadow effect.
+- Using the `color` property to set the background color.
+- Using the `shape` property to customize the card's shape.
+- Using the `margin` property to add space around the card.
+- Using the `child` property to display content inside the card.
+- Using `Padding` to add space inside the card.
+- Arranging widgets using `Column` and `Row`.
+- Adding icons and text inside a card.
+- Customizing card corners using `RoundedRectangleBorder`.
+- Creating attractive and reusable card layouts.
+- Understanding how Card works with `Scaffold` and `Center`.
+- Creating clean and user-friendly Flutter UI designs.
+
+## 🛠️ Card Properties and Widgets
+
+Some commonly used properties and widgets related to the Card include:
+
+- `Card`
+- `color`
+- `elevation`
+- `shape`
+- `margin`
+- `child`
+- `shadowColor`
+- `surfaceTintColor`
+- `clipBehavior`
+- `semanticContainer`
+- `Padding`
+- `Column`
+- `Row`
+- `Text`
+- `Icon`
+- `Image`
+- `ListTile`
+- `RoundedRectangleBorder`
+- `BorderRadius`
+
+## 🎨 Customizing Card Widget
+
+The appearance and content of a Card can be customized using different properties and widgets. Some commonly customized elements include:
+
+- 🎨 **Card Background Color**
+- 🌑 **Elevation and Shadow**
+- 📐 **Card Shape**
+- 🔵 **Rounded Corners**
+- 📏 **Card Margin**
+- 🧩 **Card Content**
+- 👤 **Profile Icons**
+- 📝 **Text and Labels**
+- 🖼️ **Images**
+- ↔️ **Padding and Spacing**
+- 📱 **Card Layout and Alignment**
+- ✨ **Attractive UI Design**
+
+A Card can be combined with different Flutter widgets to create complete and interactive user interfaces.
+
+Some common examples include:
+
+- 👤 User Profile Cards
+- 🛒 Shopping Product Cards
+- 🎓 Student Information Cards
+- 📊 Dashboard Information Cards
+- 📰 News Article Cards
+- 🏨 Hotel and Travel Cards
+- 💳 Payment Information Cards
+- 📱 Social Media Post Cards
+- 📋 Employee Details Cards
+- 🖼️ Image Gallery Cards
+
+## 💡 Real-World Usage
+
+The Card widget is commonly used in applications for:
+
+- 👤 Displaying User Profile Information
+- 🛒 Showing Product Details and Prices
+- 🎓 Displaying Student Information
+- 📊 Presenting Dashboard Statistics
+- 📰 Displaying News and Articles
+- 💳 Showing Payment and Transaction Details
+- 🏨 Displaying Hotel and Travel Information
+- 📱 Organizing Related Application Content
+- 🎨 Creating Attractive User Interfaces
+- ✨ Improving the Overall User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **Card widget** in Flutter.
+- Understood the purpose of Card in UI design.
+- Learned how to customize card colors, shapes, and shadows.
+- Understood how the `elevation` property works.
+- Learned how to use `Padding` inside a card.
+- Learned how to arrange icons and text inside a card.
+- Understood how to customize card corners using `RoundedRectangleBorder`.
+- Learned how to display different types of content inside a card.
+- Understood how Card works with `Scaffold`, `Center`, and `Column`.
+- Improved my understanding of **Flutter UI design and layout building**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/b501a380-c723-4b08-b153-187b467cdc9b" />
+
+
+#CardWidget #Flutter #FlutterWidgets #Dart #FlutterUI #MaterialDesign #FlutterDevelopment #UIDesign #MobileUI #FlutterLearning #FlutterDeveloper #CodingJourney #100DaysOfFlutter
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -1779,7 +1900,7 @@ The TabBar widget is commonly used in applications for:
 - ✅ Drawer Widget
 - ✅ BottomNavigationBar Widget
 - ✅ TabBar Widget
-- 🃏 Card Widget
+- ✅ Card Widget
 - 📄 ListTile Widget
 - 👤 CircleAvatar Widget
 - 🖼️ Image Widget
