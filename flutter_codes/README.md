@@ -1875,6 +1875,134 @@ The Card widget is commonly used in applications for:
 
 ---
 
+# 📌 Day 26 - ListTile Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **ListTile widget** in Flutter. The ListTile widget is used to display **a single row of information with a title, subtitle, leading widget, and trailing widget**. It helps organize information and makes the user interface clean, simple, and user-friendly.
+
+The ListTile widget is commonly used to display information such as **user profiles, contact details, settings options, notifications, email lists, and navigation menus**. It can contain different widgets such as Text, Image, Icon, and Checkbox.
+
+The ListTile widget provides properties such as `leading`, `title`, `subtitle`, `trailing`, `onTap`, and `selected` to customize its appearance and behavior.
+
+## 🎯 What I Learned
+
+- Creating a **ListTile widget** in Flutter.
+- Understanding the purpose of the ListTile widget.
+- Using the `leading` property to display an icon or image at the beginning.
+- Using the `title` property to display the main text.
+- Using the `subtitle` property to display additional information.
+- Using the `trailing` property to display an icon or widget at the end.
+- Using the `onTap` property to handle tap events.
+- Using the `onLongPress` property to handle long-press events.
+- Using the `selected` property to indicate a selected item.
+- Using the `enabled` property to enable or disable interaction.
+- Using the `tileColor` property to set the background color.
+- Using the `selectedTileColor` property to customize the selected item's background.
+- Arranging multiple ListTile widgets inside a `ListView`.
+- Using `Divider` to separate list items.
+- Creating clean and interactive list layouts.
+- Understanding how ListTile works with `Scaffold`, `Drawer`, and `ListView`.
+
+## 🛠️ ListTile Properties and Widgets
+
+Some commonly used properties and widgets related to ListTile include:
+
+- `ListTile`
+- `leading`
+- `title`
+- `subtitle`
+- `trailing`
+- `onTap`
+- `onLongPress`
+- `selected`
+- `enabled`
+- `tileColor`
+- `selectedTileColor`
+- `contentPadding`
+- `isThreeLine`
+- `dense`
+- `shape`
+- `minLeadingWidth`
+- `horizontalTitleGap`
+- `visualDensity`
+- `ListView`
+- `Divider`
+- `Icon`
+- `Text`
+- `Image`
+- `Checkbox`
+- `Switch`
+
+## 🎨 Customizing ListTile Widget
+
+The appearance and behavior of a ListTile can be customized using different properties and widgets. Some commonly customized elements include:
+
+- 🎨 **Tile Background Color**
+- 👤 **Leading Icons and Images**
+- 📝 **Title and Subtitle**
+- ➡️ **Trailing Icons**
+- 👆 **Tap and Long-Press Actions**
+- 🔵 **Selected Item Color**
+- 📏 **Content Padding**
+- ↔️ **Horizontal Spacing**
+- 📐 **Tile Shape**
+- 📋 **List Item Separation**
+- 📱 **Scrollable List Layout**
+- ✨ **Interactive UI Design**
+
+A ListTile can be combined with different Flutter widgets to create organized and interactive list-based user interfaces.
+
+Some common examples include:
+
+- 👤 User Profile Lists
+- 📞 Contact Lists
+- ⚙️ Settings Menus
+- 🔔 Notification Lists
+- 📧 Email Inbox Lists
+- 🛒 Shopping Item Lists
+- 🎵 Music Playlist Items
+- 📋 Task Management Lists
+- 💬 Chat Conversation Lists
+- 📱 Navigation Drawer Items
+
+## 💡 Real-World Usage
+
+The ListTile widget is commonly used in applications for:
+
+- 👤 Displaying User and Profile Information
+- 📞 Showing Contact Details
+- ⚙️ Creating Settings Screens
+- 🔔 Displaying Notifications
+- 📧 Organizing Email Messages
+- 🛒 Displaying Product Information
+- 💬 Showing Chat Conversations
+- 📋 Creating Task and To-Do Lists
+- 🧭 Building Navigation Drawer Menus
+- ✨ Improving the Overall User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **ListTile widget** in Flutter.
+- Understood the purpose of ListTile in UI design.
+- Learned how to customize leading icons and trailing widgets.
+- Understood how the `title` and `subtitle` properties work.
+- Learned how to handle tap events using `onTap`.
+- Learned how to display multiple ListTile widgets inside a `ListView`.
+- Understood how to separate list items using `Divider`.
+- Learned how to customize the tile's background and shape.
+- Understood how ListTile works with `Scaffold`, `Drawer`, and `ListView`.
+- Improved my understanding of **Flutter UI design and list-based layouts**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/dee96fdf-e17c-4e34-9f1e-53387959cd61" />
+
+
+#ListTileWidget #Flutter #FlutterWidgets #Dart #FlutterUI #MaterialDesign #FlutterDevelopment #UIDesign #MobileUI #FlutterLearning #FlutterDeveloper #CodingJourney #100DaysOfFlutter
+
+---
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -1901,7 +2029,7 @@ The Card widget is commonly used in applications for:
 - ✅ BottomNavigationBar Widget
 - ✅ TabBar Widget
 - ✅ Card Widget
-- 📄 ListTile Widget
+- ✅ ListTile Widget
 - 👤 CircleAvatar Widget
 - 🖼️ Image Widget
 - 👆 GestureDetector Widget
