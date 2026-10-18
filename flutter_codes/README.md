@@ -2003,6 +2003,128 @@ The ListTile widget is commonly used in applications for:
 
 ---
 
+# 📌 Day 27 - CircleAvatar Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **CircleAvatar widget** in Flutter. The CircleAvatar widget is used to display **a circular profile image, initials, or an icon**. It helps create attractive and user-friendly interfaces by displaying user identities in a circular shape.
+
+The CircleAvatar widget is commonly used to display information such as **user profiles, contact details, chat conversations, social media accounts, and team members**. It can contain different widgets and images to create personalized profile displays.
+
+The CircleAvatar widget provides properties such as `radius`, `minRadius`, `maxRadius`, `backgroundColor`, `backgroundImage`, `foregroundImage`, and `child` to customize its appearance and behavior.
+
+## 🎯 What I Learned
+
+- Creating a **CircleAvatar widget** in Flutter.
+- Understanding the purpose of the CircleAvatar widget.
+- Using the `radius` property to customize the avatar's size.
+- Using the `minRadius` property to set the minimum radius.
+- Using the `maxRadius` property to set the maximum radius.
+- Using the `backgroundColor` property to set the background color.
+- Using the `backgroundImage` property to display a profile image.
+- Using the `foregroundImage` property to display an image in the foreground.
+- Using the `child` property to display initials, text, or icons.
+- Displaying user initials inside a circular avatar.
+- Customizing the size and appearance of profile images.
+- Using `NetworkImage` to load images from the internet.
+- Combining CircleAvatar with `Text`, `Icon`, `Row`, and `Column`.
+- Creating profile sections and contact lists.
+- Understanding how CircleAvatar works with `ListTile` and other Flutter widgets.
+
+## 🛠️ CircleAvatar Properties and Widgets
+
+Some commonly used properties and widgets related to CircleAvatar include:
+
+- `CircleAvatar`
+- `radius`
+- `minRadius`
+- `maxRadius`
+- `backgroundColor`
+- `backgroundImage`
+- `foregroundImage`
+- `foregroundDecoration`
+- `child`
+- `Text`
+- `Icon`
+- `NetworkImage`
+- `AssetImage`
+- `Image`
+- `Row`
+- `Column`
+- `ListTile`
+- `Container`
+- `Padding`
+- `SizedBox`
+
+## 🎨 Customizing CircleAvatar Widget
+
+The appearance of a CircleAvatar can be customized using different properties and widgets. Some commonly customized elements include:
+
+- 🎨 **Background Color**
+- 🖼️ **Profile Images**
+- 👤 **User Initials**
+- 📏 **Avatar Radius and Size**
+- 🎭 **Icons and Text**
+- 🌐 **Network Images**
+- 📁 **Local Asset Images**
+- ✨ **Circular Profile Design**
+- 📱 **Profile Layout**
+- 🎯 **Foreground Image and Decoration**
+
+A CircleAvatar can be combined with different Flutter widgets to create attractive and personalized user interfaces.
+
+Some common examples include:
+
+- 👤 User Profile Pictures
+- 📞 Contact List Avatars
+- 💬 Chat Application Profiles
+- 👥 Team Member Profiles
+- 📱 Social Media Accounts
+- 🛍️ Customer Profiles
+- 🎓 Student Profile Pictures
+- 🧑‍💻 Developer Profiles
+- 🔔 Notification User Icons
+- 🧭 Navigation Drawer Profiles
+
+## 💡 Real-World Usage
+
+The CircleAvatar widget is commonly used in applications for:
+
+- 👤 Displaying User Profile Pictures
+- 📞 Showing Contact Avatars
+- 💬 Creating Chat Conversation Lists
+- 👥 Displaying Team Members
+- 📱 Building Social Media Interfaces
+- 🎓 Showing Student Information
+- 🧑‍💻 Creating User Profile Sections
+- 🧭 Designing Navigation Drawer Headers
+- 🖼️ Displaying Initials When Profile Images Are Unavailable
+- ✨ Improving the Overall User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **CircleAvatar widget** in Flutter.
+- Understood the purpose of CircleAvatar in UI design.
+- Learned how to customize avatar size using the `radius` property.
+- Understood how to set background colors and images.
+- Learned how to display initials and icons using the `child` property.
+- Learned how to display images using `NetworkImage` and `AssetImage`.
+- Understood how to combine CircleAvatar with `ListTile`, `Row`, and `Column`.
+- Learned how to create circular profile pictures and user identity sections.
+- Improved my understanding of **Flutter UI design and profile-based layouts**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/7cb5e44d-7c87-417a-8b28-7c1b592958df" />
+
+
+## 🏷️ Hashtags
+
+#CircleAvatarWidget #Flutter #FlutterWidgets #Dart #FlutterUI #MaterialDesign #FlutterDevelopment #UIDesign #MobileUI #FlutterLearning #FlutterDeveloper #CodingJourney #100DaysOfFlutter
+
+---
+
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -2030,7 +2152,7 @@ The ListTile widget is commonly used in applications for:
 - ✅ TabBar Widget
 - ✅ Card Widget
 - ✅ ListTile Widget
-- 👤 CircleAvatar Widget
+- ✅ CircleAvatar Widget
 - 🖼️ Image Widget
 - 👆 GestureDetector Widget
 - 🎬 AnimatedContainer Widget
