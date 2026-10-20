@@ -2124,6 +2124,132 @@ The CircleAvatar widget is commonly used in applications for:
 
 ---
 
+# 📌 Day 28 - Image Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **Image widget** in Flutter. The Image widget is used to display **images from different sources, such as network URLs, local assets, and files**. It helps make applications more attractive, interactive, and user-friendly by displaying visual content.
+
+The Image widget is commonly used to display information such as **product images, profile pictures, banners, gallery photos, logos, and illustrations**. It provides different properties to customize the size, alignment, and appearance of images.
+
+The Image widget provides properties such as `width`, `height`, `fit`, `alignment`, `color`, `opacity`, `repeat`, and `filterQuality` to customize image display and behavior.
+
+## 🎯 What I Learned
+
+- Creating an **Image widget** in Flutter.
+- Understanding the purpose of the Image widget.
+- Using `Image.network()` to display images from the internet.
+- Using `Image.asset()` to display local asset images.
+- Using `Image.file()` to display images from local files.
+- Using `Image.memory()` to display images from memory.
+- Using the `width` and `height` properties to customize image size.
+- Understanding the `fit` property to control how images fit within a given area.
+- Using `BoxFit.cover`, `BoxFit.contain`, and `BoxFit.fill`.
+- Using the `alignment` property to position images.
+- Customizing images using the `color` and `opacity` properties.
+- Using `errorBuilder` to handle image loading errors.
+- Understanding the `loadingBuilder` property for network image loading.
+- Combining Image with `Container`, `Row`, `Column`, and `Padding`.
+- Creating image layouts for profiles, products, and galleries.
+- Understanding how images work with other Flutter widgets.
+
+## 🛠️ Image Widget Properties and Methods
+
+Some commonly used properties and methods related to the Image widget include:
+
+- `Image`
+- `Image.network()`
+- `Image.asset()`
+- `Image.file()`
+- `Image.memory()`
+- `width`
+- `height`
+- `fit`
+- `alignment`
+- `color`
+- `opacity`
+- `repeat`
+- `filterQuality`
+- `errorBuilder`
+- `loadingBuilder`
+- `BoxFit`
+- `BoxFit.cover`
+- `BoxFit.contain`
+- `BoxFit.fill`
+- `NetworkImage`
+- `AssetImage`
+- `Container`
+- `Padding`
+- `SizedBox`
+- `Row`
+- `Column`
+
+## 🎨 Customizing the Image Widget
+
+The appearance of an Image widget can be customized using different properties and widgets. Some commonly customized elements include:
+
+- 🎨 **Image Color and Opacity**
+- 🖼️ **Network Images**
+- 📁 **Local Asset Images**
+- 📏 **Image Width and Height**
+- 🧩 **Image Fit and Alignment**
+- ✨ **Image Quality**
+- 🌐 **Loading Images from URLs**
+- 🛠️ **Handling Image Loading Errors**
+- 📱 **Responsive Image Layouts**
+- 🎯 **Image Display and Positioning**
+
+The Image widget can be combined with different Flutter widgets to create attractive and responsive user interfaces.
+
+Some common examples include:
+
+- 👤 User Profile Pictures
+- 🛍️ Product Images
+- 🖼️ Image Galleries
+- 📱 Application Banners
+- 🏢 Company Logos
+- 🎓 Educational Illustrations
+- 🧑‍💻 Developer Portfolio Images
+- 📰 News Article Images
+- 🏞️ Travel and Nature Photos
+- 🎨 Background and Decorative Images
+
+## 💡 Real-World Usage
+
+The Image widget is commonly used in applications for:
+
+- 👤 Displaying User Profile Pictures
+- 🛍️ Showing Product Images in Shopping Apps
+- 🖼️ Creating Photo Galleries
+- 📱 Displaying Banners and Promotional Images
+- 🏢 Showing Company and Application Logos
+- 🎓 Displaying Educational Images
+- 📰 Adding Images to News and Blog Articles
+- 🏞️ Displaying Travel and Nature Photos
+- 🌐 Loading Images from Online Sources
+- ✨ Improving the Overall User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **Image widget** in Flutter.
+- Understood the purpose of the Image widget in UI design.
+- Learned how to display network and local asset images.
+- Understood how to customize image dimensions using `width` and `height`.
+- Learned how to control image fitting using the `BoxFit` property.
+- Understood how to handle image loading errors.
+- Learned how to combine Image with `Container`, `Row`, and `Column`.
+- Learned how to create attractive image layouts for different applications.
+- Improved my understanding of **Flutter UI design and image handling**.
+
+## 📸 Screenshot
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/7de34b08-75c4-469b-8c79-f0ac26d7e075" />
+
+
+## 🏷️ Hashtags
+
+#ImageWidget #Flutter #FlutterWidgets #Dart #FlutterUI #MaterialDesign #FlutterDevelopment #UIDesign #MobileUI #FlutterLearning #FlutterDeveloper #CodingJourney #100DaysOfFlutter
+
+--- 
 
 ## 📚 Upcoming Widgets
 
@@ -2153,7 +2279,7 @@ The CircleAvatar widget is commonly used in applications for:
 - ✅ Card Widget
 - ✅ ListTile Widget
 - ✅ CircleAvatar Widget
-- 🖼️ Image Widget
+- ✅ Image Widget
 - 👆 GestureDetector Widget
 - 🎬 AnimatedContainer Widget
 - 📜 SingleChildScrollView Widget
