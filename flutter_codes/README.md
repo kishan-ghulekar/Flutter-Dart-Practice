@@ -2250,6 +2250,126 @@ The Image widget is commonly used in applications for:
 
 --- 
 
+# 📌 Day 29 - GestureDetector Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **GestureDetector widget** in Flutter. The GestureDetector widget is used to detect user gestures such as **single taps, double taps, long presses, and dragging interactions**. It helps make applications more interactive and user-friendly by responding to different touch gestures.
+
+The GestureDetector widget is commonly used to handle interactions such as **clicking on profile pictures, selecting cards, liking posts, opening menus, and interacting with custom UI elements**. It allows developers to add gesture-based functionality to widgets without requiring a traditional button.
+
+The GestureDetector widget provides properties such as `onTap`, `onDoubleTap`, `onLongPress`, `onTapDown`, `onTapUp`, `onPanUpdate`, `onHorizontalDragUpdate`, and `onVerticalDragUpdate` to handle different user interactions.
+
+## 🎯 What I Learned
+
+- Creating a **GestureDetector widget** in Flutter.
+- Understanding the purpose of the GestureDetector widget.
+- Using `onTap` to detect a single tap.
+- Using `onDoubleTap` to detect a double tap.
+- Using `onLongPress` to detect a long press.
+- Understanding the `onTapDown` and `onTapUp` callbacks.
+- Using `onPanUpdate` to detect dragging movements.
+- Understanding horizontal and vertical drag gestures.
+- Using `setState()` to update the UI after a gesture.
+- Changing widget colors based on user interactions.
+- Displaying messages when gestures are detected.
+- Combining GestureDetector with `Container`, `Text`, `Column`, and `Center`.
+- Creating interactive cards and custom clickable widgets.
+- Understanding how gestures improve Flutter application usability.
+
+## 🛠️ GestureDetector Widget Properties and Callbacks
+
+Some commonly used properties and callbacks related to the GestureDetector widget include:
+
+- `GestureDetector`
+- `onTap`
+- `onDoubleTap`
+- `onLongPress`
+- `onTapDown`
+- `onTapUp`
+- `onTapCancel`
+- `onPanStart`
+- `onPanUpdate`
+- `onPanEnd`
+- `onHorizontalDragUpdate`
+- `onVerticalDragUpdate`
+- `behavior`
+- `child`
+- `setState()`
+- `Container`
+- `Text`
+- `Column`
+- `Center`
+- `SizedBox`
+
+## 🎨 Customizing the GestureDetector Widget
+
+The behavior and appearance of a GestureDetector can be customized using different callbacks and Flutter widgets. Some commonly implemented interactions include:
+
+- 👆 **Single-Tap Detection**
+- 👆👆 **Double-Tap Detection**
+- ✋ **Long-Press Detection**
+- 🎨 **Changing Colors on Tap**
+- 💬 **Displaying Messages After Gestures**
+- ↔️ **Horizontal Drag Gestures**
+- ↕️ **Vertical Drag Gestures**
+- 🖱️ **Custom Clickable Widgets**
+- 📱 **Interactive UI Elements**
+- 🎯 **Responding to User Actions**
+
+The GestureDetector widget can be combined with other Flutter widgets to create interactive and responsive user interfaces.
+
+Some common examples include:
+
+- 👤 Interactive Profile Pictures
+- ❤️ Double-Tap Like Features
+- 🛍️ Clickable Product Cards
+- 📱 Custom Buttons and Containers
+- 📋 Interactive List Items
+- 🖼️ Image Interaction and Selection
+- 📂 Long-Press Context Menus
+- 🎮 Drag-and-Drop Interactions
+- 🔔 Interactive Notification Items
+- 🧑‍💻 Custom Dashboard Elements
+
+## 💡 Real-World Usage
+
+The GestureDetector widget is commonly used in applications for:
+
+- 👆 Detecting Single and Double Taps
+- ❤️ Implementing Like and Favorite Features
+- 👤 Handling Profile Picture Interactions
+- 🛍️ Making Product Cards Interactive
+- 📂 Displaying Options on Long Press
+- ↔️ Supporting Dragging and Movement
+- 🖼️ Interacting with Images and Galleries
+- 📱 Building Custom Clickable UI Elements
+- 🎯 Responding to User Gestures
+- ✨ Improving the Overall User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **GestureDetector widget** in Flutter.
+- Understood how gesture detection works in Flutter applications.
+- Learned to handle single taps, double taps, and long presses.
+- Understood how to use callbacks to respond to user interactions.
+- Learned how to update the UI using `setState()`.
+- Practiced changing colors and messages based on gestures.
+- Learned how to create interactive widgets without traditional buttons.
+- Improved my understanding of **Flutter UI design and user interaction handling**.
+
+## 📸 Screenshot
+
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/4153d3e7-d06c-4726-bc47-99962e0458e4" />
+
+
+## 🏷️ Hashtags
+
+#GestureDetector #Flutter #FlutterWidgets #Dart #FlutterUI #MaterialDesign #FlutterDevelopment #UIDesign #MobileUI #FlutterLearning #FlutterDeveloper #CodingJourney #100DaysOfFlutter
+
+---
+
+
 ## 📚 Upcoming Widgets
 
 - ✅ Container Widget
@@ -2279,7 +2399,7 @@ The Image widget is commonly used in applications for:
 - ✅ ListTile Widget
 - ✅ CircleAvatar Widget
 - ✅ Image Widget
-- 👆 GestureDetector Widget
+- ✅w GestureDetector Widget
 - 🎬 AnimatedContainer Widget
 - 📜 SingleChildScrollView Widget
 
