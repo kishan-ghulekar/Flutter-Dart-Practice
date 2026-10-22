@@ -2369,6 +2369,125 @@ The GestureDetector widget is commonly used in applications for:
 
 ---
 
+# 📌 Day 30 - AnimatedContainer Widget in Flutter
+
+## 📖 Overview
+
+Today I practiced the **AnimatedContainer widget** in Flutter. The AnimatedContainer widget is used to create smooth animations when the properties of a container change. It automatically animates changes in **width, height, color, border radius, alignment, padding, margin, and decoration** over a specified duration.
+
+The AnimatedContainer widget is commonly used to create interactive UI elements such as **animated cards, expandable containers, changing buttons, profile cards, and dynamic layouts**. It makes Flutter applications more attractive and user-friendly by adding smooth transitions without requiring a separate animation controller.
+
+The AnimatedContainer widget provides properties such as `duration`, `curve`, `width`, `height`, `color`, `decoration`, `alignment`, `padding`, and `margin` to customize animations.
+
+## 🎯 What I Learned
+
+- Creating an **AnimatedContainer widget** in Flutter.
+- Understanding the purpose of the AnimatedContainer widget.
+- Using `duration` to control animation time.
+- Using `curve` to customize animation effects.
+- Changing the width and height of a container.
+- Changing the background color with animation.
+- Animating the border radius of a container.
+- Using `alignment` to change the position of child widgets.
+- Using `decoration` to customize the container's appearance.
+- Using `setState()` to trigger animations.
+- Creating smooth transitions between different container states.
+- Using `ElevatedButton` to control animations.
+- Combining AnimatedContainer with `Icon`, `Text`, `Column`, and `Center`.
+- Creating interactive and responsive UI elements.
+- Understanding how implicit animations work in Flutter.
+
+## 🛠️ AnimatedContainer Widget Properties
+
+Some commonly used properties of the AnimatedContainer widget include:
+
+- `AnimatedContainer`
+- `duration`
+- `curve`
+- `width`
+- `height`
+- `color`
+- `decoration`
+- `alignment`
+- `padding`
+- `margin`
+- `constraints`
+- `transform`
+- `child`
+- `setState()`
+- `Duration`
+- `Curves`
+- `BoxDecoration`
+- `BorderRadius`
+- `Container`
+- `Icon`
+- `ElevatedButton`
+
+## 🎨 Customizing the AnimatedContainer Widget
+
+The appearance and animation behavior of an AnimatedContainer can be customized using different properties. Some commonly implemented animations include:
+
+- 📏 **Changing Container Size**
+- 🎨 **Animating Background Colors**
+- 🔵 **Changing Border Radius**
+- 📍 **Animating Child Alignment**
+- ⏱️ **Controlling Animation Duration**
+- ✨ **Applying Different Animation Curves**
+- 📦 **Animating Padding and Margin**
+- 🔄 **Creating Reversible Animations**
+- 🖱️ **Triggering Animations on Button Press**
+- 📱 **Building Interactive UI Elements**
+
+The AnimatedContainer widget can be combined with other Flutter widgets to create attractive and interactive user interfaces with minimal animation code.
+
+Some common examples include:
+
+- 🃏 Animated Cards
+- 📦 Expandable Containers
+- 🎨 Color-Changing Boxes
+- 👤 Animated Profile Cards
+- 🔘 Interactive Buttons
+- 📱 Responsive UI Components
+- 🖼️ Animated Image Containers
+- 🎯 Interactive Dashboard Elements
+- ✨ Smooth UI Transitions
+- 🔄 Toggle-Based Animations
+
+## 💡 Real-World Usage
+
+The AnimatedContainer widget is commonly used in applications for:
+
+- 📏 Expanding and Shrinking UI Elements
+- 🎨 Changing Colors Based on User Actions
+- 🃏 Animating Product Cards
+- 👤 Creating Interactive Profile Components
+- 🔘 Building Animated Buttons
+- 📱 Improving User Interface Transitions
+- 🎯 Highlighting Selected Items
+- 📦 Creating Expandable Content Sections
+- ✨ Adding Smooth Visual Effects
+- 🚀 Improving the Overall User Experience
+
+## 🚀 Learning Outcome
+
+- Learned how to use the **AnimatedContainer widget** in Flutter.
+- Understood how implicit animations work.
+- Learned to animate container size, color, and border radius.
+- Understood how `duration` and `curve` control animations.
+- Learned how to trigger animations using `setState()`.
+- Practiced creating interactive container animations.
+- Learned how to build smooth transitions without using an animation controller.
+- Improved my understanding of **Flutter animations and UI development**.
+
+## 🎬 Demo Video
+[
+Add your AnimatedContainer demo video or GIF here to demonstrate the animation.](https://github.com/user-attachments/assets/1b8de2df-27a8-4b3b-8d4f-a1812dc17ce7)
+
+## 🏷️ Hashtags
+
+#AnimatedContainer #Flutter #FlutterWidgets #Dart #FlutterUI #FlutterAnimations #MaterialDesign #FlutterDevelopment #UIDesign #MobileUI #FlutterLearning #FlutterDeveloper #CodingJourney #100DaysOfFlutter
+
+---
 
 ## 📚 Upcoming Widgets
 
@@ -2399,8 +2518,8 @@ The GestureDetector widget is commonly used in applications for:
 - ✅ ListTile Widget
 - ✅ CircleAvatar Widget
 - ✅ Image Widget
-- ✅w GestureDetector Widget
-- 🎬 AnimatedContainer Widget
+- ✅ GestureDetector Widget
+- ✅ AnimatedContainer Widget
 - 📜 SingleChildScrollView Widget
 
 ---
